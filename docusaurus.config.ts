@@ -107,7 +107,7 @@ const config: Config = {
             
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/0xInterstellar',
+              href: 'https://discord.com/invite/zHkk875URW',
             },
             {
               label: 'X',
