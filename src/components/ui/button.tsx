@@ -11,7 +11,7 @@ export const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
       <button
         ref={ref}
         className={cn(
-          "px-4 py-2 rounded-md font-medium transition duration-200",
+          "px-8 py-4 rounded-md font-medium transition duration-200",
           variant === "default" && "bg-blue-500 text-white hover:bg-blue-600",
           variant === "outline" && "border border-gray-300 text-gray-800 hover:bg-gray-100",
           variant === "ghost" && "text-gray-500 hover:bg-gray-200",

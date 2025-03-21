@@ -5,6 +5,12 @@
  */
 
 /* You can override the default Infima variables here. */
+
+
+@tailwind utilities;
+/*@tailwind base;
+@tailwind components;*/
+
 :root {
   --ifm-color-primary: #6633FF; /* Interstellar Purple */
   --ifm-color-primary-dark: #5522EE;
@@ -53,3 +59,5 @@ button {
 button:hover {
   background-color: var(--ifm-color-primary-lighter);
 }
+
+

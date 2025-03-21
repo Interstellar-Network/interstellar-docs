@@ -1,0 +1,33 @@
+---
+sidebar_position: 1
+---
+import "@site/src/css/output.css"; // Tailwind utilities only — no base/components!
+
+# Documentation Hub
+
+import "@site/src/css/output.css";
+import CardGrid from "@site/src/components/ui/CardGrid";
+import { Lock, Rocket, UserCircle } from "lucide-react"; // Example SVG icons from `lucide-react`
+
+<CardGrid
+  items={[
+    {
+      iconSvg: <Rocket className="w-6 h-6 text-indigo-500" />,
+      title: "Fast Transactions",
+      description: "Ultra-low latency finality under 300ms.",
+      href: "/docs/intro"
+    },
+    {
+      iconSvg: <Lock className="w-6 h-6 text-zinc-700 dark:text-zinc-200" />,
+      title: "Secure Auth",
+      description: "Multi-layer cognitive biometrics + hardware keys.",
+      href: "/docs/intro"
+    },
+    {
+      icon: "🧠",
+      title: "Behavioral AI",
+      description: "Deep profiling to eliminate credential theft.",
+    },
+  ]}
+/>
+
