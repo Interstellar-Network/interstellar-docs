@@ -8,8 +8,7 @@
 
 
 @tailwind utilities;
-/*@tailwind base;
-@tailwind components;*/
+
 
 :root {
   --ifm-color-primary: #6633FF; /* Interstellar Purple */
@@ -50,6 +49,7 @@
   --ifm-code-background: #2A2A40;
   
 }
+
 
 /* Improve Buttons */
 button {
