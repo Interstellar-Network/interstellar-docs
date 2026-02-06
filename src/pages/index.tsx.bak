@@ -14,10 +14,12 @@ export default function Home(): ReactNode {
       <main className={styles.homeContainer}>
         <Link
           className="button button--primary button--lg"
-          to="/docs/interstellar-network">
+          to="/interstellar-network">
           Interstellar Network ✨
         </Link>
       </main>
     </Layout>
   );
 }
+
+// .bak is used as a backup version - this file has no value without removing .bak

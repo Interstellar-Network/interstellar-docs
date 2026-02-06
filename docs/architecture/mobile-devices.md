@@ -31,7 +31,7 @@ When initiating an intent, **you see exactly what you're approving** — the amo
 This is where it gets innovative. **The system creates a unique cryptographic images "movie"** that only human eyes can properly see:
 
 - The “movie” is **generated on-chain** and contains a one-time code
-- Each frame is **protected by advanced cryptography** called [garbled circuits](docs/authentication/garbled-circuits.md)
+- Each frame is **protected by advanced cryptography** called [garbled circuits](/authentication/garbled-circuits)
 - The code is only visible to humans, not to screen-capturing malware
 
 ### 4. Your Personal Interaction Pattern (Future Feature)
@@ -51,7 +51,7 @@ Warned about by Binance and others, these attacks **change transaction details**
 
 ### Overlay Attacks
 
-Banking and financial apps are often tricked with **fake UI overlays**. Interstellar’s [dynamic visual cryptography](docs/authentication/dynamic-visual-cryptography.md) prevents this:
+Banking and financial apps are often tricked with **fake UI overlays**. Interstellar’s [dynamic visual cryptography](/authentication/dynamic-visual-cryptography) prevents this:
 
 - An attacker would need to mimic 60–120 fps image changes in sync
 - Computationally infeasible and human-only decipherable

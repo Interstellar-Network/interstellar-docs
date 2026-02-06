@@ -8,7 +8,7 @@ The mobile SDK comes with a **new recovery solution** — leveraging Interstella
 
 ### 1. Backup File
 
-Save a [garbled circuit](/docs/authentication/garbled-circuits) Backup File to iCloud, Google Drive, Password Manager, ... or send it to a friend on Whatsapp, Telegram, Singal, ...
+Save a [garbled circuit](/authentication/garbled-circuits) Backup File to iCloud, Google Drive, Password Manager, ... or send it to a friend on Whatsapp, Telegram, Singal, ...
 
 - It is **NOT critical if your file is exposed**, as long as you got your phone, or other backup items
 

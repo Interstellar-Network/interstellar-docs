@@ -12,7 +12,7 @@ When a user initiates an intent — **transaction** / **backup** / **recovery** 
 
 ### 2. Validation Screen
 
-- Intent is validated **with device biometrics + [dynamic visual cryptographic screen](docs/authentication/dynamic-visual-cryptography.md)** — prompting the user to input a randomly generated one-time code **if threshold is reached**
+- Intent is validated **with device biometrics + [dynamic visual cryptographic screen](/authentication/dynamic-visual-cryptography)** — prompting the user to input a randomly generated one-time code **if threshold is reached**
 - Examples: **high-amount transaction** / **backup** / **recovery** / **before confirming autonomous agent operation**
 
 ### Intent Logic
