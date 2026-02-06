@@ -1,0 +1,23 @@
+import type {ReactNode} from 'react';
+import Link from '@docusaurus/Link';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import Layout from '@theme/Layout';
+
+import styles from './index.module.css';
+
+export default function Home(): ReactNode {
+  const {siteConfig} = useDocusaurusContext();
+  return (
+    <Layout
+      title={siteConfig.title}
+      description="Description will go into a meta tag in <head />">
+      <main className={styles.homeContainer}>
+        <Link
+          className="button button--primary button--lg"
+          to="/docs/interstellar-network">
+          Interstellar Network ✨
+        </Link>
+      </main>
+    </Layout>
+  );
+}
