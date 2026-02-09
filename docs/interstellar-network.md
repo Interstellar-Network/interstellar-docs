@@ -7,9 +7,9 @@ slug: /
 
 Interstellar is a purpose-built deep technology powering **advanced authentication**, human-centric wallets, and mobile applications **across any blockchain and agentic payment network**.
 
-It’s architecture is the result of **20+ years of R&D** in the fields of cybersecurity, mobile device security, authentication, and blockchain.
+It’s architecture is the result of **10+ years of R&D** in the fields of cybersecurity, mobile device security, authentication, and blockchain.
 
-Introducing the [**Interstellar Mobile SDK**](/mobile-sdk) — a new **decentralized authentication standard** and **next-generation security** build around mobile devices. While highly secure, it's user experience is comparable to a modern passkey login, without any centralized [points of failure](https://x.com/joenrv/status/1857609397607813171) or additional hardware — enabling **the first secure passkey and auth sync manager that lives onchain**.
+Introducing the [**Interstellar Mobile SDK**](/mobile-sdk) — a new **decentralized authentication standard** and **next-generation security** built around humans and mobile devices. While highly secure, it's user experience is comparable to a modern passkey login, but without any centralized [points of failure](https://x.com/joenrv/status/1857609397607813171) or additional hardware — enabling **the first secure passkey and auth sync manager that lives onchain**.
 
 *Welcome to the future of self-custody.*
 
