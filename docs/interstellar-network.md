@@ -5,7 +5,7 @@ slug: /
 
 # Interstellar Network
 
-Interstellar is a purpose-built deep technology powering **advanced authentication**, human-centric wallets, and mobile applications **across any blockchain and agentic payment network**.
+Interstellar is a purpose-built deep technology, enabling **advanced authentication**, proof of human intent transactions, cutting-edge wallets, and world-leading mobile security **across any blockchain and agentic payment network**.
 
 It’s architecture is the result of **10+ years of R&D** in the fields of cybersecurity, mobile device security, authentication, and blockchain.
 

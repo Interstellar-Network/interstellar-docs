@@ -6,4 +6,4 @@ sidebar_position: 2
 
 Interstellar consists of its own **purpose-built Layer 1 blockchain**, responsible for execution and verification.
 
-![World-Leading Security](/img/World_Leading_Security_Slide.png)
+![Cutting-Edge Blockchain Technology](/img/Cutting_Edge_Blockchain_Technology_Slide.png)
