@@ -4,19 +4,20 @@ sidebar_position: 3
 
 # Proof of Human Validation
 
-When a user initiates an intent — **transaction** / **backup** / **recovery** / **other** —  there are **two options for validating the operation**:
+When a user initiates an intent — **transaction/backup/recovery/other**; there are **two options for validating the operation**:
 
 ### 1. Instant Validation
 
-- Intent is validated **with device biometrics** — provided the transaction amount or sensitivity of the operation is **below a customizable threshhold**
+- Intent is validated via **device biometrics**;
+  - Provided intent sensitivity/transaction amount is below a customizable threshhold
 
-### 2. Validation Screen
+### 2. Screen Validation
 
-- Intent is validated **with device biometrics + [dynamic visual cryptographic screen](/authentication/dynamic-visual-cryptography)** — prompting the user to input a randomly generated one-time code
-  - Examples: **high-amount transaction** / **backup** / **recovery** / **confirming sensitive autonomous agent operation**
+- Intent is validated via **device biometrics + [PoHI screen](/authentication/visual-simulation)** — prompting the user to input a randomly generated [one-time code](/authentication/dynamic-visual-cryptography)
+  - e.g. high-amount transaction/backup/recovery/confirming sensitive autonomous agent operation
 
-### Intent Logic
+## Intent Logic
 
-While smaller transactions and non-sensitive operations are handled by Instant Validations — bigger transactions and sensitive operations are handled with an additional Validation Screen.
+While non-sensitive operations are handled by 'Instant Validations' — **sensitive operations e.g. critical transactions are handled by an additional 'Screen Validation'**.
 
 ![Proof of Human Validation](/img/Proof_Of_Human_Validation_Slide.png)
