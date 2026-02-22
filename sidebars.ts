@@ -59,10 +59,10 @@ const sidebars: SidebarsConfig = {
         description: 'Explore Interstellar\'s unique mobile SDK features ✨',
       },
       items: [
+        'features/proof-of-human-intent',
+        'features/sybil-resistance',
         'features/instant-wallet-creation',
         'features/one-tap-wallet-backup',
-        'features/proof-of-human-validation',
-        'features/sybil-resistance',
       ],
     },
     // Add more files here as needed, e.g.:
