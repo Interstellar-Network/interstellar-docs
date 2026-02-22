@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
-# Proof of Human Validation
+# Proof of Human Intent
 
 When a user initiates an intent — **transaction/backup/recovery/other**; there are **two options for validating the operation**:
 
@@ -20,4 +20,4 @@ When a user initiates an intent — **transaction/backup/recovery/other**; there
 
 While non-sensitive operations are handled by 'Instant Validations' — **sensitive operations e.g. critical transactions are handled by an additional 'Screen Validation'**.
 
-![Proof of Human Validation](/img/Proof_Of_Human_Validation_Slide.png)
+![Proof of Human Intents](/img/Proof_Of_Human_Intents_Slide.png)

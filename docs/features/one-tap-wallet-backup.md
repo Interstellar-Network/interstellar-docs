@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
 
 # One-Tap Wallet Backup
@@ -12,7 +12,7 @@ The mobile SDK comes with a **new recovery solution** — leveraging Interstella
 
 ### 1. Backup File
 
-Save your freshly generated [**garbled circuit**](/authentication/garbled-circuits) '**Backup File**' to iCloud / Google Drive / Password Manager / Self-Hosted ... or send it to a friend via Whatsapp / Telegram / Signal / Messanger Apps ...
+Save your freshly generated [**garbled circuit**](/authentication/garbled-circuits) '**Backup File**' to iCloud / Google Drive / Password Manager / Self-Hosted... or send it to a friend via Whatsapp / Telegram / Signal / DM...
 
 - It is **NOT critical if your wallet backup file gets exposed (trusted or untrusted party)** — as long as you still have access to your phone, or any other backup items
 
