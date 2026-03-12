@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Mobile SDK
 
-Interstellar's Mobile SDK can be **easily integrated into any mobile application** — enabling **seamless Web3 access** and [**next-gen mobile device security**](/architecture/mobile-devices) across any supported blockchain networks — **Bitcoin/EVM/Solana/Polkadot/...**
+Interstellar's Mobile SDK can be **easily integrated into any mobile application** — enabling **seamless Web3 access** and [**next-gen mobile device security**](/design/mobile-devices) across any supported blockchain networks — **Bitcoin/EVM/Solana/Polkadot/...**
 
 ![Mobile First](/img/Mobile_First_Slide.png)
 

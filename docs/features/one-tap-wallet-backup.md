@@ -14,11 +14,11 @@ The mobile SDK comes with a **new recovery solution** — leveraging Interstella
 
 Save your freshly generated [**garbled circuit**](/authentication/garbled-circuits) '**Backup File**' to iCloud / Google Drive / Password Manager / Self-Hosted... or send it to a friend via Whatsapp / Telegram / Signal / DM...
 
-- It is **NOT critical if your wallet backup file gets exposed (trusted or untrusted party)** — as long as you still have access to your phone, or any other backup items
+- It is **NOT critical if your wallet backup file gets exposed** — as long as you still have access to your phone, or any other backup items
 
 ### 2. Backup Item
 
-Hold a day-to-day **NFC enabled Item** close to your mobile device (within your app) to register this item as you backup.
+Hold a day-to-day **NFC enabled item** close to your mobile device to register it as you backup.
 
 - If your NFC item is lost, simply remove it from your backup options
 

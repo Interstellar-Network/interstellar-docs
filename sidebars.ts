@@ -28,21 +28,35 @@ const sidebars: SidebarsConfig = {
       items: [
         'authentication/pohi',
         'authentication/dynamic-visual-cryptography',
-        'authentication/visual-simulation',
         'authentication/garbled-circuits',
+        'authentication/visual-simulation',
       ],
     },
     {
       type: 'category',
-      label: 'Architecture',
+      label: 'Design',
       link: {
         type: 'generated-index',
         description: 'Explore Interstellar\'s architecture and technology stack ✨',
       },
       items: [
-        'architecture/mobile-devices',
-        'architecture/interstellar-blockchain',
-        'architecture/technology-stack',
+        'design/technology-stack',
+        'design/mobile-devices',
+        'design/interstellar-blockchain',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Core Advantages',
+      link: {
+        type: 'generated-index',
+        description: 'How does Interstellar compare to or complement other solutions? ✨',
+      },
+      items: [
+        'advantages/vs-traditional-wallets',
+        'advantages/vs-passkeys-social-logins',
+        'advantages/vs-traditional-authenticators',
+        'advantages/vs-edr-mtd-security',
       ],
     },
   ],

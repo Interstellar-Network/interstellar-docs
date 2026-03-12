@@ -6,7 +6,7 @@ sidebar_position: 3
 
 **Instant onboarding through any mobile app**.
 
-X *No recovery phrase. No password. No email. No phone number. No centralized login. No additional hardware.*
+X *No seed phrase. No password. No email. No phone number. No centralized login. No additional hardware.*
 
 ### 1. Start Mobile App → 2. Wallet Created → 3. Done.
 
