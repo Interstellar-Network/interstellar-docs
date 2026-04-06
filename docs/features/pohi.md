@@ -11,7 +11,7 @@ When a user initiates an intent — **transaction/backup/recovery/other**; there
 - Intent is validated via **device biometrics**;
   - Provided intent sensitivity/transaction amount is below a customizable threshhold
 
-### 2. Screen Validation
+### 2. Proof of Human Intent Validation
 
 - Intent is validated via **device biometrics + [PoHI screen](/authentication/visual-simulation)** — prompting the user to input a randomly generated [one-time code](/authentication/dynamic-visual-cryptography)
   - e.g. high-amount transaction/backup/recovery/confirming sensitive autonomous agent operation
@@ -20,4 +20,4 @@ When a user initiates an intent — **transaction/backup/recovery/other**; there
 
 While non-sensitive operations are handled by 'Instant Validations' — **sensitive operations e.g. critical transactions are handled by an additional 'Screen Validation'**.
 
-![Proof of Human Intents](/img/Proof_Of_Human_Intents_Slide.png)
+![Proof of Human Intent](/img/Proof_Of_Human_Intent_Slide.png)

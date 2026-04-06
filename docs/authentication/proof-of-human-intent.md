@@ -2,13 +2,13 @@
 sidebar_position: 1
 ---
 
-# Proof of Human Intent (PoHI)
+# Proof of Human Intent
 
-## The Intent Layer for Wallets, Payments & Agents
+## The Intent Layer for Payments, Wallets, & Agents
 
 Interstellar ensures that no transaction, smart-contract call, or agent action is executed unless a real **human has cryptographically approved that exact action** — even on a compromised device.
 
-![Human-Centric Intents](/img/Human-Centric_Intents_Slide.png)
+![Human-Centric Intents](/img/Human-Intent_Verification_Slide.png)
 
 ## Authentication ≠ Intent
 

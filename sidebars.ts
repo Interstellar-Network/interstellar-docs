@@ -26,7 +26,7 @@ const sidebars: SidebarsConfig = {
         description: 'Explore Interstellar\'s breakthrough authentication technology ✨',
       },
       items: [
-        'authentication/pohi',
+        'authentication/proof-of-human-intent',
         'authentication/dynamic-visual-cryptography',
         'authentication/garbled-circuits',
         'authentication/visual-simulation',
@@ -73,7 +73,7 @@ const sidebars: SidebarsConfig = {
         description: 'Explore Interstellar\'s unique mobile SDK features ✨',
       },
       items: [
-        'features/proof-of-human-intent',
+        'features/pohi',
         'features/sybil-resistance',
         'features/instant-wallet-creation',
         'features/one-tap-wallet-backup',
