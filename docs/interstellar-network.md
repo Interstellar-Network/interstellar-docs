@@ -9,9 +9,9 @@ slug: /
 
 It’s architecture is the **result of 10+ years of R&D** in the fields of cybersecurity, mobile device security, authentication, and blockchain.
 
-Introducing a new **decentralized authentication standard** and **next-generation security built around humans and mobile devices**.
+Introducing a **non-custodial & decentralized authentication standard** designed around human biology and cognitive abilities.
 
-While highly secure, it's user experience is comparable to modern passkeys, but without any centralized [points of failure](https://x.com/joenrv/status/1857609397607813171) or additional hardware.
+While highly secure, it's UX is comparable to modern passkeys, but **without any centralized [points of failure](https://x.com/joenrv/status/1857609397607813171) or additional hardware**.
 
 *Welcome to the future of Web3.*
 
