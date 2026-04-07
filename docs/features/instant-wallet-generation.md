@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Instant Wallet Creation
+# Instant Wallet Generation
 
 **Instant onboarding through any mobile app**.
 
@@ -10,4 +10,4 @@ X *No seed phrase. No password. No email. No phone number. No centralized login.
 
 ### 1. Start Mobile App → 2. Wallet Created → 3. Done.
 
-![One-Tap Backup](/img/No_Additional_Hardware_Slide.png)
+![No Additional Hardware](/img/No_Additional_Hardware_Slide.png)

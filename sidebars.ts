@@ -75,7 +75,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'features/pohi',
         'features/sybil-resistance',
-        'features/instant-wallet-creation',
+        'features/instant-wallet-generation',
         'features/one-tap-wallet-backup',
       ],
     },

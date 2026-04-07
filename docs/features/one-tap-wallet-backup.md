@@ -8,7 +8,7 @@ Interstellar's mobile SDK comes with **new backup/recovery solutions** — lever
 
 ![One-Tap Backup](/img/One-Tap_Backup_Slide.png)
 
-## Choose between two main backup options after wallet generation
+## Choose between two main backup options:
 
 ### 1. Backup File
 
