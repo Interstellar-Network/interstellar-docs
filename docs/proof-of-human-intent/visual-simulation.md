@@ -4,11 +4,11 @@ sidebar_position: 4
 
 # Visual Simulation
 
-**"A wallet's security is only as strong as its authentication system."**
+**"A wallet's security is only as strong as its authorization system."**
 
-🛡️ In today's world, systems either lack strong authentication options or rely on centralized ones.
+🛡️ In today's world, systems either lack strong authorization options or rely on centralized ones.
 
-Here's a **demo** of how Interstellar's decentralized authentication can securely validate any transaction through a single screen on your daily smartphone:
+Here's a **demo** of how Interstellar's decentralized authorization can securely validate a transaction through a single screen on your daily smartphone:
 
 1. **Choose the device you're currently using**
 

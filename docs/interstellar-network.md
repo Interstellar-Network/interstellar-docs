@@ -5,11 +5,11 @@ slug: /
 
 # Interstellar Network
 
-**Interstellar is a purpose-built deep-tech infrastructure pioneering human-intent verification, advanced authentication, and world-leading security across blockchains and agentic payment networks.**
+**Interstellar is a purpose-built deep-tech infrastructure pioneering human-intent verification, advanced authorization, and world-leading security across blockchains and agentic payment networks.**
 
-It’s architecture is the **result of 10+ years of R&D** in the fields of cybersecurity, mobile device security, authentication, and blockchain.
+Its architecture is the **result of over a decade of R&D** in the fields of cybersecurity, mobile devices, authentication, and blockchain.
 
-Introducing a **non-custodial & decentralized authentication standard** designed around human biology and cognitive abilities.
+Introducing **the first non-custodial & decentralized authorization standard** designed around human biology and cognitive abilities.
 
 While highly secure, it's UX is comparable to modern passkeys, but **without any centralized [points of failure](https://x.com/joenrv/status/1857609397607813171) or additional hardware**.
 

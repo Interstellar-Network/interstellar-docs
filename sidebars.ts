@@ -20,16 +20,16 @@ const sidebars: SidebarsConfig = {
     'interstellar-network',
     {
       type: 'category',
-      label: 'Authentication',
+      label: 'Proof of Human Intent',
       link: {
         type: 'generated-index',
-        description: 'Explore Interstellar\'s breakthrough authentication technology ✨',
+        description: 'Explore Interstellar\'s breakthrough proof of human intent technology ✨',
       },
       items: [
-        'authentication/proof-of-human-intent',
-        'authentication/dynamic-visual-cryptography',
-        'authentication/garbled-circuits',
-        'authentication/visual-simulation',
+        'proof-of-human-intent/overview',
+        'proof-of-human-intent/dynamic-visual-cryptography',
+        'proof-of-human-intent/garbled-circuits',
+        'proof-of-human-intent/visual-simulation',
       ],
     },
     {
@@ -73,7 +73,7 @@ const sidebars: SidebarsConfig = {
         description: 'Explore Interstellar\'s unique mobile SDK features ✨',
       },
       items: [
-        'features/pohi',
+        'features/proof-of-human-intent',
         'features/sybil-resistance',
         'features/instant-wallet-generation',
         'features/one-tap-wallet-backup',

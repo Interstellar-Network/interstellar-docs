@@ -13,11 +13,11 @@ When a user initiates an intent — **transaction/agent delegation/backup/other*
 
 ### 2. Proof of Human Intent Validation
 
-- Intent is validated via **[PoHI screen](/authentication/visual-simulation) + device biometrics** — prompting the user to input a randomly generated [one-time code](/authentication/dynamic-visual-cryptography)
+- Intent is validated via **[PoHI screen](/proof-of-human-intent/visual-simulation) + device biometrics** — prompting the user to input a randomly generated [one-time code](/proof-of-human-intent/dynamic-visual-cryptography)
   - e.g. high-amount transaction/critical agent delegation/backup/...
 
 ## Intent Logic
 
-While non-sensitive intents are handled by 'Instant Validations' — **sensitive/critical intents are handled by Interstellar's Proof of Human Intent (PoHI) Validation**.
+While non-sensitive intents are handled by 'Instant Validations' — **sensitive/critical intents are handled by Interstellar's PoHI Validation**.
 
 ![Proof of Human Intent](/img/Proof_Of_Human_Intent_Slide.png)

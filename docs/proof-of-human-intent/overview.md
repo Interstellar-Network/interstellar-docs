@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Proof of Human Intent
 
-## The Intent Layer for Payments, Wallets, & Agents
+## The Authorization Layer for Wallets, Agents & Payments
 
 Interstellar ensures that no transaction, smart-contract call, or agent action is executed unless a real **human has cryptographically approved that exact action** — even on a compromised device.
 
