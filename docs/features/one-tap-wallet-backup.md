@@ -12,7 +12,7 @@ Interstellar's mobile SDK comes with **new backup/recovery solutions** — lever
 
 ### 1. Backup File
 
-Save your freshly generated [garbled circuit](/authentication/garbled-circuits) '**Backup File**' to iCloud/Google Drive/PW Manager/other or send it to a friend via Whatsapp/Telegram/Signal/other.
+Save your freshly generated [garbled circuit](/proof-of-human-intent/garbled-circuits) '**Backup File**' to iCloud/Google Drive/PW Manager/other or send it to a friend via Whatsapp/Telegram/Signal/other.
 
 - It is **NOT critical if your wallet backup file gets exposed** — as long as you can access your mobile device, or other backups
 
