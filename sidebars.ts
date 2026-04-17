@@ -23,7 +23,7 @@ const sidebars: SidebarsConfig = {
       label: 'Proof of Human Intent',
       link: {
         type: 'generated-index',
-        description: 'Explore Interstellar\'s breakthrough proof of human intent technology ✨',
+        description: 'Explore Interstellar\'s breakthrough Proof of Human Intent technology ✨',
       },
       items: [
         'proof-of-human-intent/overview',

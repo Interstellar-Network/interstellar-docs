@@ -4,20 +4,18 @@ sidebar_position: 1
 
 # Proof of Human Intent
 
-When a user initiates an intent — **transaction/agent delegation/backup/other**; there are **two options for validating the operation**:
+Interstellar ensures that no critical transaction, smart-contract call, or agent action is executed unless a **human has cryptographically approved that exact action** — even on a compromised device.
 
 ### 1. Instant Validation
 
-- Intent is validated via **device biometrics**;
-  - Provided intent sensitivity/transaction amount/agent delegation is below a customizable threshhold
+- For **non-critical actions** — validation happens immidiately via **device biometrics**, like most of today's systems.
 
 ### 2. Proof of Human Intent Validation
 
-- Intent is validated via **[PoHI screen](/proof-of-human-intent/visual-simulation) + device biometrics** — prompting the user to input a randomly generated [one-time code](/proof-of-human-intent/dynamic-visual-cryptography)
-  - e.g. high-amount transaction/critical agent delegation/backup/...
+- For **critical actions** — validation requires human verification through **device biometrics + [Interstellar's Proof of Human Intent screen](/proof-of-human-intent/visual-simulation)** — prompting the user to input a randomly generated [one-time code](/proof-of-human-intent/dynamic-visual-cryptography)
 
 ## Intent Logic
 
-While non-sensitive intents are handled by 'Instant Validations' — **sensitive/critical intents are handled by Interstellar's PoHI Validation**.
+ Users can customize which actions require verification, with exceptions like recovery settings and high-value transactions. — However, if a user unknowingly confirms a **critical action, Proof of Human Intent validation triggers automatically**, alerting them to the true intent behind the action.
 
 ![Proof of Human Intent](/img/Proof_Of_Human_Intent_Slide.png)

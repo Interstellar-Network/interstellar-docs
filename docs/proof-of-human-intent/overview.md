@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# Proof of Human Intent
+# Overview
 
 ## The Authorization Layer for Wallets, Agents & Payments
 
-Interstellar ensures that no transaction, smart-contract call, or agent action is executed unless a real **human has cryptographically approved that exact action** — even on a compromised device.
+Interstellar ensures that no critical transaction, smart-contract call, or agent action is executed unless a **human has cryptographically approved that exact action** — even on a compromised device.
 
 ![Human-Centric Intents](/img/Human-Intent_Verification_Slide.png)
 
@@ -18,10 +18,10 @@ Interstellar ensures that no transaction, smart-contract call, or agent action i
 - Instant settlement (Web3, real-time payments) means there is no rollback window
 - Existing MFAs, biometrics, and passkeys all assume: *“If the device is authenticated, the action is legitimate.”*
 
-## Interstellar's Proof of Human Intent
+## Proof of Human Intent
 
 A new trust layer that **cryptographically binds a specific action to a human validation** and produces a cryptographic proof that malware and AI cannot fake:
 
 - Secure intent screen that overlay attacks cannot silently alter
 - Short cognitive interaction only a human can solve — embedded into the screen
-- Proof of execution — exact action at a given time — is verified by a decentralized signer network
+- Proof of execution — exact action at a given time is verified by a decentralized signer network

@@ -11,7 +11,7 @@ Its architecture is the **result of over a decade of R&D** in the fields of cybe
 
 Introducing **the first non-custodial & decentralized authorization standard** designed around human biology and cognitive abilities.
 
-While highly secure, it's UX is comparable to modern passkeys, but **without any centralized [points of failure](https://x.com/joenrv/status/1857609397607813171) or additional hardware**.
+Effortless UX — without any [centralized points of failure](https://x.com/joenrv/status/1857609397607813171) or additional hardware.
 
 *Welcome to the future of Web3.*
 
