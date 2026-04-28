@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Overview
 
-## The Authorization Layer for Wallets, Agents & Payments
+## Human Authorization for Wallets, Payments, & Agents
 
 Interstellar ensures that no critical transaction, smart-contract call, or agent action is executed unless a **human has cryptographically approved that exact action** — even on a compromised device.
 

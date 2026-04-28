@@ -40,7 +40,6 @@ const sidebars: SidebarsConfig = {
         description: 'Explore Interstellar\'s architecture and technology stack ✨',
       },
       items: [
-        'design/technology-stack',
         'design/mobile-devices',
         'design/interstellar-blockchain',
       ],
