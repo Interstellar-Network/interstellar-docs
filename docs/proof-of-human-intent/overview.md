@@ -4,9 +4,9 @@ sidebar_position: 1
 
 # Overview
 
-## Human Authorization for Wallets, Payments, & Agents
+## Human Authorization for Wallets, Payments & Agents
 
-Interstellar ensures that no critical transaction, smart-contract call, or agent action is executed unless a **human has cryptographically approved that exact action** — even on a compromised device.
+Interstellar ensures that no critical digital action — i.e., transaction, smart-contract call, or agent delegation — is executed unless a **human has cryptographically approved that exact action**, even on a compromised device.
 
 ![Human-Centric Intents](/img/Human-Intent_Verification_Slide.png)
 

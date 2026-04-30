@@ -7,7 +7,7 @@ slug: /
 
 **Interstellar is a deep-tech infrastructure pioneering human-intent verification, advanced authorization, and world-leading security across blockchains, payment rails, and agentic networks.**
 
-Its architecture is the **result of over a decade of R&D** in the fields of cybersecurity, mobile devices, authentication, and blockchain.
+Its architecture is the **result of over a decade of R&D** in the fields of cybersecurity, authentication, and distributed ledger technology.
 
 Introducing **the first non-custodial & decentralized authorization standard** designed around human biology and cognitive abilities.
 
