@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ## Basic Garbled Circuit Structure Overview
 
-A garbled circuit is a **cryptographic obfuscation technique** and a cryptographic algorithm that **ensures computation privacy** i.e. manages the protection of a boolean circuit that **can be executed without leaking information**. Neither the semantics of boolean operators (AND, OR, XOR, etc.) that make up the circuit nor the semantics of inputs and outputs of the circuit will be revealed to the attackers through reverse-engineering or brute force attacks. — [Foundation of Garbled Circuits, Viet Tung Hoang, B.S.](https://www.cs.fsu.edu/~tvhoang/thesis.pdf)
+A garbled circuit is a **cryptographic obfuscation technique** and a cryptographic algorithm that **ensures computation privacy** i.e. manages the protection of a boolean circuit that **can be executed without leaking information**. Neither the semantics of boolean operators (AND, OR, XOR, etc.) that make up the circuit nor the semantics of inputs and outputs of the circuit will be revealed to the attackers through reverse-engineering or brute force attacks. — [Foundation of Garbled Circuits, Viet Tung Hoang, B.S.](https://eprint.iacr.org/2012/265.pdf)
 
 ![GC Structure Overview](/img/GC_Structure_Overview.png)
 
