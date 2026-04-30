@@ -12,7 +12,7 @@ Mobile devices play a crucial role in Interstellar's architecture. They are the 
 
 ### Making Your Phone as Secure as a Hardware Wallet
 
-This new security technology **transforms your everyday smartphone into a highly secure wallet** by combining multiple layers of protection in a unique way. Unlike traditional solutions that try to detect malware — which is particularly difficult on mobile devices — this approach **creates a secure environment for transactions that remains effective even if your device is compromised**.
+This new technology **equips your everyday smartphone with next generation mobile device security** by combining multiple layers of protection in a unique way. Unlike traditional solutions that try to detect malware — which is particularly difficult on mobile devices — this approach **creates a secure environment for transactions that remains effective even if your device is compromised**.
 
 ## How It Works
 
@@ -26,7 +26,7 @@ Your phone's built-in **Secure Element (SE)** stores a special key that's activa
 
 When initiating an intent, **you see exactly what you're approving** — the amount and destination. While this may seem basic, it's **presented in a way that malware cannot tamper with or hide**, making it a crucial security factor.
 
-### 3. Dynamic Visual Authentication
+### 3. Dynamic Visual Authorization
 
 This is where it gets innovative. **The system creates a unique cryptographic images "movie"** that only human eyes can properly see:
 
