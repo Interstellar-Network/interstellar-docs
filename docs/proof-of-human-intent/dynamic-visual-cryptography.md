@@ -33,18 +33,18 @@ This creates a **channel that only humans can perceive and decode**.
 
 ## Security
 
-**All intent data is embedded directly into the garbled circuit, never appearing in memory**.
+**Intent data is embedded directly into the garbled circuit and never materializes in memory**.
 
-To compromise it, an attacker would have to do all:
+Compromising the system would require an attacker to chain together every one of the following:
 
-- Compromise user device and get rootkit access
-- Know exactly when the user intents to initiate an operation
-- Capture every individual intent screen frame perfectly (while user already starts confirming otp)
-- Precisely reassemble every single pixel of the intent screen
-- Mimic the exact display timing (60–120 fps)
-- Syncronize everything perfectly in real time (time window of 2-4s)
+- Root-level compromise of the user's device
+- Advance knowledge of when the user will initiate an operation
+- Frame-perfect capture of every intent screen during the 2–4 second confirmation window
+- Pixel-exact reconstruction of the intent display
+- Faithful reproduction of native display timing (60–120 fps)
+- Real-time synchronization across all of the above
 
-The system performs **real-time probabilistic verification** to ensure that **user responses correspond to the authentic, currently displayed sequence**. Randomized visual watermarks embedded in each frame prevent replay and precomputation attacks. Even if such an attack were theoretically possible, its **economic incentive is negative**: the attacker could, at best, compromise a single random transaction, without any access to the private key.
+Even granting all of that, **real-time probabilistic verification confirms that user responses correspond to the authentic, currently displayed sequence**, and randomized per-frame visual watermarks defeat replay and precomputation. The economic ceiling on a successful attack is a single compromised transaction — the private key remains out of reach. The cost of mounting an attack of this sophistication vastly exceeds the payoff, making the ROI fundamentally negative: an adversary capable of clearing every bar above has far more lucrative targets elsewhere.
 
 ## Analogy: The Flipbook
 
