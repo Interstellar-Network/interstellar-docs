@@ -9,7 +9,7 @@ slug: /
 
 Introducing the first **non-custodial & decentralized authorization standard** designed around human biology and cognitive abilities.
 
-Built for effortless UX — with no seed phrases, no passwords, no emails, no phone numbers, no additional hardware, and no [centralized points of failure](https://x.com/joenrv/status/1857609397607813171).
+Built for effortless UX — with no seed phrases, no passwords, no additional hardware, and no [centralized points of failure](https://x.com/joenrv/status/1857609397607813171).
 
 *Welcome to the future of Web3.*
 
