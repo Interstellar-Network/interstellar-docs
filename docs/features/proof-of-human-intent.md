@@ -16,6 +16,6 @@ Interstellar ensures that no critical digital action — i.e., transaction, smar
 
 ## Intent Logic
 
- Users can customize which actions require verification, with exceptions like recovery settings and high-value transactions. — However, if a user unknowingly confirms a **critical action, Proof of Human Intent validation triggers automatically**, alerting them to the true intent behind the action.
+ Users can customize which actions require verification, with exceptions like recovery settings and high-value transactions. — **Proof of Human Intent validation triggers automatically if a user unknowingly initiates a critical action** (blind signing, phishing...), alerting them to the true intent behind the action.
 
 ![Proof of Human Intent](/img/Proof_Of_Human_Intent_Slide.png)
