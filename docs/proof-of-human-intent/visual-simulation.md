@@ -4,8 +4,6 @@ sidebar_position: 4
 
 # Visual Simulation
 
-## Security is only as strong as its authorization system.
-
 🛡️ In today's world, systems either lack strong authorization options or rely on centralized ones.
 
 Watch a simulation of Interstellar in action — validating a transaction from a single screen on your smartphone:
