@@ -8,14 +8,14 @@ Interstellar ensures that no critical digital action — i.e., transaction, smar
 
 ### 1. Instant Validation
 
-- For **non-critical actions** — validation happens immidiately via **device biometrics**, like most of today's systems.
+- For **non-critical actions** — validation happens instantly via **device biometrics**.
 
-### 2. Proof of Human Intent Validation
+### 2. Proof of Human Intent
 
-- For **critical actions** — validation requires human verification through **device biometrics + [Interstellar's Proof of Human Intent screen](/proof-of-human-intent/visual-simulation)** — prompting the user to input a randomly generated [one-time code](/proof-of-human-intent/dynamic-visual-cryptography)
+- For **critical actions** — validation requires a secure [Proof of Human Intent Screen](/proof-of-human-intent/visual-simulation)** — prompting the user to input a randomly generated [one-time code](/proof-of-human-intent/dynamic-visual-cryptography) which is displayed alongside the intended action.
 
 ## Intent Logic
 
- Users can customize which actions require verification, with exceptions like recovery settings and high-value transactions. — **Proof of Human Intent validation triggers automatically if a user unknowingly initiates a critical action** (blind signing, phishing...), alerting them to the true intent behind the action.
+ Users/Service providers can customize which actions require stronger verification (with exceptions like recovery and high-value transactions for which strong verification is always required). **Proof of Human Intent triggers automatically if a user unknowingly initiates a critical action** (blind signing, phishing...), alerting them to the true intent behind the action.
 
 ![Proof of Human Intent](/img/Proof_Of_Human_Intent_Slide.png)

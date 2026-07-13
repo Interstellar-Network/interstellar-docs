@@ -73,8 +73,8 @@ const sidebars: SidebarsConfig = {
       },
       items: [
         'features/proof-of-human-intent',
-        'features/instant-wallet-generation',
-        'features/secure-wallet-backup',
+        'features/instant-account-generation',
+        'features/secure-account-backup',
       ],
     },
     // Add more files here as needed, e.g.:
