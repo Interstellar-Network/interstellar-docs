@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # vs Passkeys & Social Logins
 
-| Aspect | Passkeys & Social Logins | Interstellar |
+| Aspect | [Passkeys](https://x.com/joenrv/status/1857609397607813171) & Social Logins | Interstellar |
 |--------|--------------------------|--------------|
 | **UX: Setup** | Requires account with email, password, or phone number. Most passkeys & social logins bind auth to that account. | Passkey-like onboarding with no pre-existing account requirement.
 | **UX: Cross-platform** | Tied to provider's domain/ecosystem/cloud; switching platforms or devices can be painful. | Neutral, cross-platform, and WebAuthn compatible without vendor lock-in.

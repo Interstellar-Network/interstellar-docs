@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Overview
 
-## Human Intent Verification for Payments, Fintechs, Exchanges, Wallets, or Agents.
+## Payments, Fintechs, Exchanges, Wallets, or Agents.
 
 Interstellar ensures that no critical digital action — i.e., transaction, smart-contract call, or agent delegation — is executed unless a **human has cryptographically approved that exact action**, even on a compromised device.
 

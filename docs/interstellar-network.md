@@ -7,7 +7,7 @@ slug: /
 
 **Interstellar is a deep-tech infrastructure pioneering human-intent verification, advanced authorization, and world-leading security across blockchains, payment rails, and agentic networks.**
 
-Introducing the first non-custodial & [decentralized](https://x.com/joenrv/status/1857609397607813171) authorization standard designed around human biology and cognitive abilities.
+Introducing the first non-custodial & decentralized authorization standard designed around human biology and cognitive abilities.
 
 Built for effortless UX — with no login, no email, no password, no phone number, no seed phrase, no additional hardware.
 
