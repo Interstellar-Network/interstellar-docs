@@ -28,8 +28,8 @@ const sidebars: SidebarsConfig = {
       items: [
         'proof-of-human-intent/overview',
         'proof-of-human-intent/dynamic-visual-cryptography',
-        'proof-of-human-intent/garbled-circuits',
         'proof-of-human-intent/visual-simulation',
+        'proof-of-human-intent/garbled-circuits',
       ],
     },
     {
