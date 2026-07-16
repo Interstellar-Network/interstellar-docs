@@ -26,4 +26,4 @@ A new trust layer that **cryptographically binds a specific action to a human va
 - **Short cognitive interaction** only a human can solve — embedded into the screen
 - **Proof of execution** — exact action at a given time is verified by a decentralized signer network
 
-![Persistence of Vision](Persistence_of_Vision_Slide.png)
+![Persistence of Vision](/img/Persistence_of_Vision_Slide.png)
