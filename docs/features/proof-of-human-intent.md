@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Proof of Human Intent
 
-Interstellar ensures that no critical digital action — i.e., transaction, smart-contract call, or agent delegation — is executed unless a **human has cryptographically approved that exact action**, even on a compromised device.
+Interstellar ensures that no critical digital action — e.g., transaction, smart-contract call, account recovery, or agent delegation — is executed unless a **human has cryptographically approved that exact action**, even when the device is compromised.
 
 ### 1. Instant Validation
 
