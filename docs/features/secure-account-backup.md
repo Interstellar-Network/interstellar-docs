@@ -30,7 +30,7 @@ Interstellar's underlying technology unlocks **advanced account abstraction and 
 
 ## Recovery Logic
 
-Interstellar's **backup logic is fundamentally different from passwords, private keys, or seed phrases**.
+**Interstellar's backup logic is fundamentally different from passwords, private keys, or seed phrases**.
 
-- If you cannot access your backup file/item; simply replace it on your **registered mobile device**.
-- If you cannot access your mobile device; simply initiate a recovery with your **registered backup** on a new mobile device.
+- **If you cannot access your backup file/item**; simply replace it on your **registered mobile device**.
+- **If you cannot access your mobile device**; simply initiate a recovery with your **registered backup** on a new mobile device.
