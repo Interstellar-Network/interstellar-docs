@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Payments, Fintechs, Exchanges, Wallets, Agents...
 
-Interstellar ensures that no critical digital action — transaction, agent delegation, smart-contract call, account recovery... — is executed unless a **human has cryptographically approved that exact action**, even when the device is compromised.
+Interstellar ensures that no critical digital action — **transaction, agent delegation, smart-contract call, account recovery**... — is executed unless a **human has cryptographically approved that exact action**, even when the device is compromised.
 
 ![Human-Centric Intents](/img/Human-Intent_Verification_Slide.png)
 

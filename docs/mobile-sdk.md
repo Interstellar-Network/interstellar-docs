@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Mobile SDK
 
-**Enable PoHI** (Proof of Human Intent) **and more for your payment-, fintech-, exchange-, wallet-, or agentic mobile app.**
+**Enable PoHI** [**Proof of Human Intent**](/features/proof-of-human-intent) **and more for your payment-, fintech-, exchange-, wallet-, or agentic mobile app.**
 
 Currently in closed Testnet. [→ Get in touch for early access](mailto:contact@interstellar.network)
 
