@@ -7,11 +7,11 @@ slug: /
 
 We believe humans should be kept in the loop for certain critical digital actions.
 
-Agent delegations involving large financial transactions, account recovery, or other sensitive operations can lead to unintended and irreversible outcomes.
-
-The world needs a non-custodial, decentralized authorization standard designed around human biology and cognition.
+Agent delegations involving financial transactions, account recovery, or other sensitive operations can lead to unintended and irreversible outcomes.
 
 **Interstellar is a deep-tech infrastructure pioneering human-intent verification, advanced authorization, and world-leading security across blockchains, payment rails, and agentic networks.**
+
+Non-custodial, cognition-based authorization, designed around mobile devices and human biology.
 
 Built for effortless UX — no login, no password, no email, no phone number, no additional hardware, no seed phrase.
 

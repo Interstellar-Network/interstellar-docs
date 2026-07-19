@@ -6,7 +6,11 @@ sidebar_position: 1
 
 ## Payments, Fintechs, Exchanges, Wallets, Agents...
 
-Interstellar ensures that no critical digital action — **transaction, agent delegation, smart-contract call, account recovery**... — is executed unless a **human has cryptographically approved that exact action**, even when the device is compromised.
+Interstellar ensures that no critical digital action — **transaction, agent delegation, smart-contract call, account recovery**... is executed unless a **human has cryptographically approved that exact action**, even when the device is compromised.
+
+Specifically, we can generate a **cryptographic proof of the human intention at the exact time of execution**.
+
+We call this ‘Proof of Human Intent’, and it can be applied to anything starting from blockchain transactions to critical agent delegations like code reviews and beyond.
 
 ![Human-Centric Intents](/img/Human-Intent_Verification_Slide.png)
 

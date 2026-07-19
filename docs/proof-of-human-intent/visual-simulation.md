@@ -4,9 +4,9 @@ sidebar_position: 3
 
 # Visual Simulation
 
-In today's world, systems either lack strong human authorization or rely on centralized options.
+In today's world, systems lack strong human authorization at the moment of execution.
 
-Watch a simulation of Interstellar in action — validating a transaction from a single screen on your smartphone:
+**Test a simulation of visual cryptography in action** — validating a transaction intent from a single mobile screen:
 
 **1. Choose the device you're currently using**
 
