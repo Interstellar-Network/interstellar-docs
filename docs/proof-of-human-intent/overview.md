@@ -10,7 +10,7 @@ Interstellar ensures that no critical digital action — **transaction, agent de
 
 Specifically, we can generate a **cryptographic proof of the human intention at the exact time of execution**.
 
-We call this **Proof of Human Intent (PoHI)**, and it can be applied to anything starting from blockchain transactions to critical agent delegations like code reviews and beyond.
+**Proof of Human Intent (PoHI)** can be applied to anything starting from blockchain transactions to critical agent delegations and beyond.
 
 ![Human-Centric Intents](/img/Human-Intent_Verification_Slide.png)
 
