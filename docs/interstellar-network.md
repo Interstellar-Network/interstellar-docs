@@ -7,11 +7,11 @@ slug: /
 
 We believe humans should be kept in the loop for certain critical digital actions.
 
-Agent delegations involving financial transactions, account recovery, or other sensitive operations can lead to unintended and irreversible outcomes.
+As we delegate more financial transactions and sensitive operations (like account controls) to agents... unintended actions can increasingly lead to irreversible outcomes.
 
-**Interstellar is a deep-tech infrastructure pioneering human-intent verification, advanced authorization, and world-leading security across blockchains, payment rails, and agentic networks.**
+**Interstellar is a deep-tech infrastructure pioneering human-intent verification, advanced authorization, and world-leading security across blockchains, payment rails, and agentic networks**.
 
-Non-custodial, cognition-based authorization, designed around mobile devices and human biology.
+Our designs include cognition-based authorization, anchored around mobile devices and humans.
 
 Built for effortless UX — no login, no password, no email, no phone number, no additional hardware, no seed phrase.
 
