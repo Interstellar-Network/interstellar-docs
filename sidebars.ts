@@ -77,6 +77,18 @@ const sidebars: SidebarsConfig = {
         'features/secure-account-backup',
       ],
     },
+    {
+      type: 'category',
+      label: 'Multichain',
+      link: {
+        type: 'generated-index',
+        description: 'Systems Interstellar is, will, or can be deployed on ✨',
+      },
+      items: [
+        'multichain/supported-blockchains',
+        'multichain/supported-frameworks',
+      ],
+    },
     // Add more files here as needed, e.g.:
     // 'new-file',
     // 'another-file',
