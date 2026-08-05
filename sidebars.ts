@@ -85,8 +85,8 @@ const sidebars: SidebarsConfig = {
         description: 'Systems Interstellar is or will be deployed on ✨',
       },
       items: [
-        'multichain/supported-blockchains',
-        'multichain/supported-frameworks',
+        'multichain/blockchains',
+        'multichain/frameworks',
       ],
     },
     // Add more files here as needed, e.g.:

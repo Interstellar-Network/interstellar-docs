@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Supported Blockchains
+# Blockchains
 
 Live on private Testnet
 
