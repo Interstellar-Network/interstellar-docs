@@ -12,7 +12,7 @@ Interstellar ensures that no critical digital action — **transaction, agent de
 
 ### 2. Proof of Human Intent
 
-- For **critical actions** — **execution requires a** [**secure PoHI screen**](/proof-of-human-intent/visual-simulation) — prompting the user to input a randomly generated [one-time code](/proof-of-human-intent/dynamic-visual-cryptography), enshrined and displayed alongside the intended action.
+- For **critical actions** — **execution requires a** [**secure PoHI screen**](/proof-of-human-intent/visual-simulation) — prompting the user to input a randomly generated one-time code, enshrined and displayed alongside the intended action.
 
 ## Intent Logic
 

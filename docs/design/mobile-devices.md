@@ -22,7 +22,7 @@ The system uses **4 strong authentication factors**, all working together:
 
 Your phone's built-in **Secure Element (SE)** stores a special key that's activated by your biometrics — fingerprint or face. This provides hardware-level security similar to what's found in hardware wallets — but **conveniently integrated into your daily device**.
 
-### 2. The Transaction Message
+### 2. The Intent Message
 
 When initiating an intent, **you see exactly what you're approving** — the amount and destination. While this may seem basic, it's **presented in a way that malware cannot tamper with or hide**, making it a crucial security factor.
 
@@ -36,7 +36,7 @@ This is where it gets innovative. **The system creates a unique cryptographic im
 
 ### 4. Your Personal Interaction Pattern (Future Feature)
 
-The system could learn how you naturally interact with these visual challenges, creating an anonymous behavioral profile that cannot be stolen or replicated by an AI.
+The system can learn how you naturally interact with these visual challenges, creating an anonymous behavioral profile that cannot be stolen or replicated by an AI.
 
 ## Protection Against Advanced Threats
 
@@ -62,15 +62,15 @@ Unlike traditional EDRs, which struggle on mobile, this approach:
 
 - Is delivered through a **simple SDK integration**
 - Requires **no additional hardware**
-- Even **works on compromised devices**
-- Provides **security equivalent to hardware wallets**
 - Focuses **protection on critical operations**
+- Provides **security equivalent to hardware wallets**
+- Even **works on compromised devices**
 
-It’s a new paradigm: rather than detecting every threat, it creates a sealed, verifiable environment for sensitive operations that remains trustworthy regardless of device integrity.
+It’s a new paradigm: rather than detecting every threat, it creates a **sealed, verifiable environment for sensitive operations** that remains trustworthy regardless of device integrity.
 
 ## Summary
 
-This is not just an incremental improvement — it’s a **new category of mobile security**:
+This is not just an incremental improvement — it’s a **new mobile security category**:
 
 - Hardware-wallet grade protection on your phone
 - No seed phrases or extra devices

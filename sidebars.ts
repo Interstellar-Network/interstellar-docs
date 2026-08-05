@@ -86,7 +86,7 @@ const sidebars: SidebarsConfig = {
       },
       items: [
         'multichain/blockchains',
-        'multichain/frameworks',
+        'multichain/agents',
       ],
     },
     // Add more files here as needed, e.g.:
