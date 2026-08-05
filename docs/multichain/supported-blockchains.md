@@ -6,20 +6,22 @@ sidebar_position: 1
 
 Live on private Testnet
 
-**Bitcoin**
+🟢 **Bitcoin**
 
-**Ethereum/EVM**
+🟢 **Ethereum/EVM**
 
-**Solana**
+🟢 **Solana**
 
-**Polkadot**
+🟢 **Polkadot**
 
 Upcoming
 
-**Hyperliquid**
+🟠 **Hyperliquid**
 
-**Tempo**
+🟠 **Tempo**
 
-██████████
+🟠 **Arc**
 
-██████████
+████████████████████
+
+████████████████████

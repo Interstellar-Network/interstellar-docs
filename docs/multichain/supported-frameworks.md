@@ -6,14 +6,14 @@ sidebar_position: 2
 
 Upcoming
 
-**x402**
+🟠 **x402**
 
-**MPP**
+🟠 **MPP**
 
 In research
 
-**AP2**
+🔬 **AP2**
 
-**UCP**
+🔬 **UCP**
 
-**PayBox**
+🔬 **PayBox**

@@ -82,7 +82,7 @@ const sidebars: SidebarsConfig = {
       label: 'Multichain',
       link: {
         type: 'generated-index',
-        description: 'Systems Interstellar is, will, or can be deployed on ✨',
+        description: 'Systems Interstellar is or will be deployed on ✨',
       },
       items: [
         'multichain/supported-blockchains',

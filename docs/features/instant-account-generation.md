@@ -8,7 +8,7 @@ sidebar_position: 2
 
 **This UX barrier significantly slows down adoption**. Additionally, seed phrases represent a single point of failure for the protection of private keys, as most newcomers do not understand what they are asked to do and the importance of doing it.
 
-Interstellar is built for effortless UX — **no login, no password, no email, no phone number, no additional hardware, no seed phrase**.
+**Interstellar is built for effortless UX** — no login, no password, no email, no phone number, no additional hardware, no seed phrase.
 
 **Instantly generate a unified account** with full self custodial access to multiple blockchains, **embedded within your application**.
 
