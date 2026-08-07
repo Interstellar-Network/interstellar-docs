@@ -40,7 +40,15 @@ The system can learn how you naturally interact with these visual challenges, cr
 
 ## Protection Against Advanced Threats
 
-This **multi-layered security** is effective against sophisticated threats:
+This **multi-layered security** is effective against sophisticated threats, such as:
+
+### Scams and Social Engineering
+
+An estimated $17 billion was lost globally to crypto scams and fraud in 2025, with the average scam payment growing 253% year-over-year to about $2,764. Impersonation tactics and **AI-generated scams are overtaking cyberattacks as the primary method criminals use to steal funds**, with a reported 1,400% increase in impersonation scams and AI-enabled scams **proving 4.5 times more profitable than traditional ones**.
+
+- No credentials to steal or reuse
+- Screen always shows the real action to be executed
+- Human-only readable confirmations
 
 ### Clipper Malware
 
@@ -64,7 +72,7 @@ Unlike traditional EDRs, which struggle on mobile, this approach:
 - Requires **no additional hardware**
 - Focuses **protection on critical operations**
 - Provides **security equivalent to hardware wallets**
-- Even **works on compromised devices**
+- Works **even on compromised devices**
 
 It’s a new paradigm: rather than detecting every threat, it creates a **sealed, verifiable environment for sensitive operations** that remains trustworthy regardless of device integrity.
 
@@ -73,8 +81,6 @@ It’s a new paradigm: rather than detecting every threat, it creates a **sealed
 This is not just an incremental improvement — it’s a **new mobile security category**:
 
 - Hardware-wallet grade protection on your phone
-- No seed phrases or extra devices
-- Resistant to trojans, overlays, and malware
+- No seed phrases or extra devices to buy
+- Resistant to trojans, overlays, and advanced malware
 - Simple and user-friendly
-
-**Interstellar brings next-generation security to the palm of your hand**.

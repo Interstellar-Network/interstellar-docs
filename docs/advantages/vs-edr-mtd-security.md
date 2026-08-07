@@ -9,4 +9,4 @@ sidebar_position: 4
 | **UX: Setup** | Install agents, configure policies, train users on alerts and responses. | No setup needed or users to train.
 | **UX: Performance** | Agents and scans can slow devices; prompts and blocks can interrupt work. | Doesn't require device protection to counter threats; performance unaffected.
 | **Security: Model** | Detect and respond to threats on the device level. | Protection from threats on the intent level.
-| **Security: Scope** | Focuses on malware, intrusion, and policy violations on devices and network. | Protects authentication and signing; complements EDR/MTD by securing the intent layer.
+| **Security: Scope** | Focuses on malware, intrusion, and policy violations on devices and network. | Protects authorization and signing; complements EDR/MTD by securing the intent layer.
