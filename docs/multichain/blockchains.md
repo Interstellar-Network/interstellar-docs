@@ -1,27 +1,26 @@
 ---
+title: Blockchains
+description: Multichain deployment status across Bitcoin, EVM, Solana, Polkadot, and upcoming networks.
 sidebar_position: 1
 ---
 
 # Blockchains
 
-Live on private Testnet
+Interstellar is designed to secure intents across multiple chains. Current deployment status:
 
-🟢 **Bitcoin**
+## Live on private testnet
 
-🟢 **Ethereum/EVM**
+- 🟢 Bitcoin
+- 🟢 Ethereum / EVM
+- 🟢 Solana
+- 🟢 Polkadot
 
-🟢 **Solana**
+## Upcoming
 
-🟢 **Polkadot**
+- 🟠 Hyperliquid
+- 🟠 Tempo
+- 🟠 Arc
 
-Upcoming
-
-🟠 **Hyperliquid**
-
-🟠 **Tempo**
-
-🟠 **Arc**
-
-████████████████████
-
-████████████████████
+:::note
+Public mainnet timelines and integration guides will be published here as each network goes live.
+:::

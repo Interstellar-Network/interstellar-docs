@@ -1,16 +1,18 @@
 ---
+title: Overview
+description: Proof of Human Intent binds critical digital actions to human validation — even on compromised devices.
 sidebar_position: 1
 ---
 
 # Overview
 
-## Payments, Fintechs, Exchanges, Wallets, Agents...
+## Payments, Fintechs, Exchanges, Wallets, Agents
 
-Interstellar ensures that no critical digital action — **transaction, agent delegation, smart-contract call, account recovery**... is executed unless a **human has cryptographically approved that exact action**, even when the device is compromised.
+Interstellar ensures that no critical digital action — **transaction, agent delegation, smart-contract call, account recovery** — is executed unless a **human has cryptographically approved that exact action**, even when the device is compromised.
 
 Specifically, we can generate a **cryptographic proof of the human intention at the exact time of execution**.
 
-**Proof of Human Intent (PoHI)** can be applied to anything starting from blockchain transactions to critical agent delegations and beyond.
+**Proof of Human Intent (PoHI)** can be applied to anything from blockchain transactions to critical agent delegations and beyond.
 
 ![Human-Centric Intents](/img/Human-Intent_Verification_Slide.png)
 
@@ -31,3 +33,9 @@ A new trust layer that **binds a specific action to a human validation** and pro
 - **Proof of execution** — exact action at a given time is verified by a decentralized signer network
 
 ![Persistence of Vision](/img/Persistence_of_Vision_Slide.png)
+
+## Learn More
+
+- [Dynamic Visual Cryptography](/proof-of-human-intent/dynamic-visual-cryptography) — how the secure visual channel works
+- [Visual Simulation](/proof-of-human-intent/visual-simulation) — try it yourself
+- [Garbled Circuits](/proof-of-human-intent/garbled-circuits) — the cryptographic foundation

@@ -1,4 +1,6 @@
 ---
+title: Mobile Devices
+description: How Interstellar turns everyday smartphones into hardware-wallet-grade intent surfaces.
 sidebar_position: 1
 ---
 
@@ -12,7 +14,7 @@ Mobile devices play a crucial role in Interstellar's architecture. They are the 
 
 ### Making Your Phone as Secure as a Hardware Wallet
 
-This new technology **equips your everyday smartphone with next generation mobile device security** by combining multiple layers of protection in a unique way. Unlike traditional solutions that try to detect malware — which is particularly difficult on mobile devices — this approach **creates a secure environment for transactions that remains effective even if your device is compromised**.
+This technology **equips your everyday smartphone with next-generation mobile device security** by combining multiple layers of protection in a unique way. Unlike traditional solutions that try to detect malware — which is particularly difficult on mobile devices — this approach **creates a secure environment for transactions that remains effective even if your device is compromised**.
 
 ## How It Works
 
@@ -28,15 +30,17 @@ When initiating an intent, **you see exactly what you're approving** — the amo
 
 ### 3. Dynamic Visual Authorization
 
-This is where it gets innovative. **The system creates a unique cryptographic images "movie"** that only human eyes can properly see:
+This is where it gets innovative. **The system creates a unique cryptographic image "movie"** that only human eyes can properly see:
 
 - The “movie” is **generated on-chain** and contains a one-time code
 - Each frame is **protected by advanced cryptography** called [garbled circuits](/proof-of-human-intent/garbled-circuits)
 - The code is only visible to humans, not to screen-capturing malware
 
-### 4. Your Personal Interaction Pattern (Future Feature)
+### 4. Your Personal Interaction Pattern
 
-The system can learn how you naturally interact with these visual challenges, creating an anonymous behavioral profile that cannot be stolen or replicated by an AI.
+:::info
+**Upcoming Feature:** The system will be able to learn how you naturally interact with these visual challenges, creating an anonymous behavioral profile that cannot be stolen or replicated by an AI.
+:::
 
 ## Protection Against Advanced Threats
 

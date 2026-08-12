@@ -1,19 +1,24 @@
 ---
+title: Agents
+description: Agent and payment-protocol integrations for human-in-the-loop authorization.
 sidebar_position: 2
 ---
 
 # Agents
 
-Upcoming
+Interstellar is integrating into agent and machine-payment protocols so critical delegations stay under human control.
 
-🟠 **x402**
+## Upcoming
 
-🟠 **MPP**
+- 🟠 x402
+- 🟠 MPP
 
-In research
+## In Research
 
-🔬 **AP2**
+- 🔬 AP2
+- 🔬 UCP
+- 🔬 PayBox
 
-🔬 **UCP**
-
-🔬 **PayBox**
+:::info
+Agent protocol support is evolving quickly. Check back for integration details as each target moves from research to shipping.
+:::
