@@ -8,7 +8,7 @@ sidebar_position: 3
 
 **Test a simulation of visual cryptography in action** — validating a transaction intent from a single mobile screen.
 
-## 1. Choose the device you're currently using
+## 1. Choose the Device you're currently using
 
 - [Desktop simulation](https://simu.interstellar.gg/3F60)
 - [Mobile simulation](https://simu.interstellar.gg/3F60M)
