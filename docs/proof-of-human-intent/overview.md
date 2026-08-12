@@ -28,11 +28,18 @@ Specifically, we can generate a **cryptographic proof of the human intention at 
 
 A new trust layer that **binds a specific action to a human validation** and produces a cryptographic proof that malware and AI cannot fake:
 
-- **Secure intent screen** that overlay attacks cannot silently alter
-- **Short cognitive interaction** only a human can solve — embedded into the screen
-- **Proof of execution** — exact action at a given time is verified by a decentralized signer network
+- **Secure Intent Screen** that overlay attacks cannot silently alter
+- **Short Cognitive Interaction** only a human can solve — embedded into the screen
+- **Proof of Execution** — exact action at a given time is verified by a decentralized signer network
 
-![Persistence of Vision](/img/Persistence_of_Vision_Slide.png)
+<iframe
+  title="Interstellar Network overview presentation"
+  src="https://docs.google.com/presentation/d/e/2PACX-1vTSytn5V9tT17n1LEzG6uIU52DS7zyk_7g3b8d9-pZKyVtsQ89es5J9JSC6plwj9rD1nRI0xS_tbR2Z/pubembed?start=false&loop=false&delayms=3000"
+  frameBorder="0"
+  width="100%"
+  height="575"
+  allowFullScreen
+/>
 
 ## Learn More
 
