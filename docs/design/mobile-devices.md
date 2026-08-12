@@ -14,7 +14,7 @@ Mobile devices play a crucial role in Interstellar's architecture. They are the 
 
 ### Making Your Phone as Secure as a Hardware Wallet
 
-This technology **equips your everyday smartphone with next-generation mobile device security** by combining multiple layers of protection in a unique way. Unlike traditional solutions that try to detect malware — which is particularly difficult on mobile devices — this approach **creates a secure environment for transactions that remains effective even if your device is compromised**.
+This technology **equips your everyday smartphone with next-generation mobile device security** by combining multiple layers of protection in a unique way. Unlike traditional solutions that try to detect malware — which is particularly difficult on mobile devices — this approach **creates a secure environment for critical digital actions that remains effective even if your device is compromised**.
 
 ## How It Works
 

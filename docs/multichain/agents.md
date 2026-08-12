@@ -6,18 +6,18 @@ sidebar_position: 2
 
 # Agents
 
-Interstellar is integrating into agent and machine-payment protocols so critical delegations stay under human control.
+Interstellar is integrating into agent and machine-payment protocols so **critical delegations stay under human control**.
 
 ## Upcoming
 
-- 🟠 x402
-- 🟠 MPP
+- 🟠 **x402**
+- 🟠 **MPP**
 
 ## In Research
 
-- 🔬 AP2
-- 🔬 UCP
-- 🔬 PayBox
+- 🔬 **AP2**
+- 🔬 **UCP**
+- 🔬 **PayBox**
 
 :::info
 Agent protocol support is evolving quickly. Check back for integration details as each target moves from research to shipping.

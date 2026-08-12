@@ -14,8 +14,8 @@ The Mobile SDK brings Interstellar's human-intent verification and account infra
 
 ## What You Get
 
-- **[Proof of Human Intent](/features/proof-of-human-intent)** — cryptographically bind critical actions to a human approval
-- **[Instant Account Generation](/features/instant-account-generation)** — self-custodial accounts without forms or seed phrases
-- **[Secure Account Backup](/features/secure-account-backup)** — flexible recovery with files, NFC items, and multisig logic
+- [Proof of Human Intent](/features/proof-of-human-intent) — cryptographically bind critical actions to a human approval
+- [Instant Account Generation](/features/instant-account-generation)** — self-custodial accounts without logins or seed phrases
+- [Secure Account Backup](/features/secure-account-backup) — novel recovery solutions that meet individual needs
 
 Explore the [Features](/category/features) and [Multichain](/category/multichain) sections for details.
