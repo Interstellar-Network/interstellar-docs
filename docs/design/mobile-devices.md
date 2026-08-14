@@ -68,6 +68,14 @@ Banking and financial apps are often tricked with **fake UI overlays**. Interste
 - An attacker would need to mimic 60–120 fps image changes in sync
 - Computationally infeasible and human-only decipherable
 
+### Prompt Injection
+
+Hidden instructions in websites, emails, and documents can **hijack AI agents into sending payments**. Prompt injection is ranked **#1 on the OWASP Top 10 for LLM Applications**, with direct attacks succeeding more than **79% of the time** in 2026 testing — and **live campaigns have already tricked agents into crypto transfers**. Interstellar keeps the human in the loop:
+
+- Critical actions still require cryptographic human approval
+- The screen shows the real destination and amount, not the injected instruction
+- Visual one-time codes are human-only readable — agents cannot decode or auto-approve them
+
 ## Breakthrough
 
 Unlike traditional EDRs, which struggle on mobile, this approach:
@@ -86,5 +94,5 @@ This is not just an incremental improvement — it’s a **new mobile security c
 
 - Hardware-wallet grade protection on your phone
 - No seed phrases or extra devices to buy
-- Resistant to trojans, overlays, and advanced malware
+- Resistant to trojans, overlays, prompt injection, and advanced malware
 - Simple and user-friendly
