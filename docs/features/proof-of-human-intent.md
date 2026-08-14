@@ -14,7 +14,7 @@ For **non-critical actions**, execution happens **instantly or via simple device
 
 ## 2. Proof of Human Intent
 
-For **critical actions**, **execution requires a** [**secure PoHI screen**](/proof-of-human-intent/visual-simulation) — prompting the user to input a randomly generated one-time code, enshrined and displayed alongside the intended action.
+For **critical actions**, **execution requires a** [**Secure PoHI Screen**](/proof-of-human-intent/visual-simulation) — prompting the user to input a randomly generated one-time code, enshrined and displayed alongside the intended action.
 
 ## Intent Logic
 

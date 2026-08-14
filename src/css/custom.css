@@ -24,6 +24,27 @@
   --ifm-color-primary-lighter: #a592ff;
   --ifm-color-primary-lightest: #b5a7ff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+
+  --ifm-background-color: #000000;
+  --ifm-background-surface-color: #000000;
+  --ifm-navbar-background-color: #000000;
+  --ifm-footer-background-color: #000000;
+  --ifm-hero-background-color: #000000;
+}
+
+[data-theme='dark'] .footer,
+[data-theme='dark'] .footer--dark {
+  --ifm-footer-background-color: #000000;
+  background-color: #000000;
+}
+
+/* Match logo → first nav item spacing to the gap between nav items */
+.navbar__logo {
+  margin-right: 0;
+}
+
+.navbar__brand {
+  margin-right: var(--ifm-navbar-item-padding-horizontal);
 }
 
 /* Keep embedded slides readable on narrow viewports */

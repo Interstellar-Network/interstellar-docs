@@ -26,7 +26,7 @@ Specifically, we can generate a **cryptographic proof of the human intention at 
 
 ## Proof of Human Intent
 
-A new trust layer that **binds a specific action to a human validation** and produces a cryptographic proof that malware and AI cannot fake:
+**The Human Intent Gateway**: A new trust layer that **binds a specific action to a human validation** and produces a cryptographic proof that malware and AI cannot fake:
 
 - **Secure Intent Screen** that overlay attacks cannot silently alter
 - **Short Cognitive Interaction** only a human can solve — embedded into the screen
