@@ -30,7 +30,7 @@ When initiating an intent, **you see exactly what you're approving** — the amo
 
 ### 3. Dynamic Visual Authorization
 
-This is where it gets innovative. **The system creates a unique cryptographic image "movie"** that only human eyes can properly see:
+This is where it gets innovative. **The system creates a unique cryptographic image "movie"** that only human eyes can properly see — [Dynamic Visual Cryptography](/proof-of-human-intent/dynamic-visual-cryptography):
 
 - The “movie” is **generated on-chain** and contains a one-time code
 - Each frame is **protected by advanced cryptography** called [garbled circuits](/proof-of-human-intent/garbled-circuits)
@@ -44,43 +44,18 @@ This is where it gets innovative. **The system creates a unique cryptographic im
 
 ## Protection Against Advanced Threats
 
-This **multi-layered security** is effective against sophisticated threats, such as:
+This **multi-layered security** is effective against sophisticated threats. The [threat model](/proof-of-human-intent/threat-model) covers how Proof of Human Intent stops each of them:
 
-### Scams and Social Engineering
-
-An estimated $17 billion was lost globally to crypto scams and fraud in 2025, with the average scam payment growing 253% year-over-year to about $2,764. Impersonation tactics and **AI-generated scams are overtaking cyberattacks as the primary method criminals use to steal funds**, with a reported 1,400% increase in impersonation scams and AI-enabled scams **proving 4.5 times more profitable than traditional ones**.
-
-- No credentials to steal or reuse
-- Screen always shows the real action to be executed
-- Human-only readable confirmations
-
-### Clipper Malware
-
-Warned about by Binance and others, these attacks **change transaction details** via clipboard manipulation. Interstellar makes this ineffective because:
-
-- Transaction data is cryptographically secured
-- Approval requires decoding a visual one-time code
-
-### Overlay Attacks
-
-Banking and financial apps are often tricked with **fake UI overlays**. Interstellar’s [dynamic visual cryptography](/proof-of-human-intent/dynamic-visual-cryptography) prevents this:
-
-- An attacker would need to mimic 60–120 fps image changes in sync
-- Computationally infeasible and human-only decipherable
-
-### Prompt Injection
-
-Hidden instructions in websites, emails, and documents can **hijack AI agents into sending payments**. Prompt injection is ranked **#1 on the OWASP Top 10 for LLM Applications**, with direct attacks succeeding more than **79% of the time** in 2026 testing — and **live campaigns have already tricked agents into crypto transfers**. Interstellar keeps the human in the loop:
-
-- Critical actions still require cryptographic human approval
-- The screen shows the real destination and amount, not the injected instruction
-- Visual one-time codes are human-only readable — agents cannot decode or auto-approve them
+- Scams and Social Engineering
+- Clipper Malware
+- Overlay Attacks
+- Prompt Injection
 
 ## Breakthrough
 
-Unlike traditional EDRs, which struggle on mobile, this approach:
+Unlike [traditional EDRs](/advantages/vs-edr-mtd-security), which struggle on mobile, this approach:
 
-- Is delivered through a **simple SDK integration**
+- Is delivered through a **simple [SDK](/mobile-sdk) integration**
 - Requires **no additional hardware**
 - Focuses **protection on critical operations**
 - Provides **security equivalent to hardware wallets**

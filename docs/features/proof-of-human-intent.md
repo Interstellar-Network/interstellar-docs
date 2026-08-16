@@ -14,7 +14,21 @@ For **non-critical actions**, execution happens **instantly or via simple device
 
 ## 2. Proof of Human Intent
 
-For **critical actions**, **execution requires a** [**Secure PoHI Screen**](/proof-of-human-intent/visual-simulation) — prompting the user to input a randomly generated one-time code, enshrined and displayed alongside the intended action.
+For **critical actions**, execution requires a **Secure PoHI Screen** — prompting the user to input a randomly generated one-time code, enshrined and displayed alongside the intended action.
+
+### Try the Secure PoHI Screen
+
+Open a live simulation of the approval flow:
+
+- [Desktop simulation](https://simu.interstellar.gg/3F60)
+- [Mobile simulation](https://simu.interstellar.gg/3F60M)
+
+1. Choose the device you're currently using
+2. Press **Ok** — you can leave the participant field empty
+3. Take a screenshot
+4. Look at your screenshot
+
+For the full walkthrough, see [Visual Simulation](/proof-of-human-intent/visual-simulation).
 
 ## Intent Logic
 
@@ -25,5 +39,5 @@ If a user **unknowingly initiated a critical action** (due to phishing, blind si
 ![Proof of Human Intent](/img/Proof_Of_Human_Intent_Slide.png)
 
 :::tip
-Deep Dive: For the cryptography and threat model, see the [Proof of Human Intent](/proof-of-human-intent/overview) section under Interstellar Network.
+Deep Dive: For the [threat model](/proof-of-human-intent/threat-model) and cryptography, see [Proof of Human Intent](/proof-of-human-intent/overview) under Interstellar Network.
 :::

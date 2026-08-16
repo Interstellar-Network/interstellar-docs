@@ -6,7 +6,7 @@ sidebar_position: 3
 
 # Secure Account Backup
 
-Interstellar's underlying technology unlocks **advanced account abstraction and recovery logic**.
+Interstellar's underlying technology unlocks **advanced account abstraction and recovery logic** for [instantly generated accounts](/features/instant-account-generation).
 
 ![One-Tap Backup](/img/One-Tap_Backup_Slide.png)
 

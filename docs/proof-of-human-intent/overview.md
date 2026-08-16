@@ -43,6 +43,7 @@ Specifically, we can generate a **cryptographic proof of the human intention at 
 
 ## Learn More
 
+- [Threat Model](/proof-of-human-intent/threat-model) — what PoHI stops after login
 - [Dynamic Visual Cryptography](/proof-of-human-intent/dynamic-visual-cryptography) — how the secure visual channel works
 - [Visual Simulation](/proof-of-human-intent/visual-simulation) — try it yourself
 - [Garbled Circuits](/proof-of-human-intent/garbled-circuits) — the cryptographic foundation

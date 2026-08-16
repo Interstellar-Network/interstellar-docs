@@ -1,7 +1,7 @@
 ---
 title: Dynamic Visual Cryptography
 description: A human-only visual channel built from one-time garbled-circuit frames and persistence of vision.
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Dynamic Visual Cryptography
@@ -65,6 +65,11 @@ When two same-sized images of apparently random black-and-white pixels are super
 
 ![Visual Cryptographic Animation Demo](/img/Visual_Cryptographic_Animation_Demo.gif)
 
+Now [try the live simulation](/proof-of-human-intent/visual-simulation) of Interstellar's intent screen:
+
+- [Desktop simulation](https://simu.interstellar.gg/3F60)
+- [Mobile simulation](https://simu.interstellar.gg/3F60M)
+
 ## Interstellar's Dynamic Visual Cryptography
 
 This is how **Interstellar leverages human persistence of vision** with a basic visual cryptography scheme.
@@ -77,7 +82,7 @@ The garbled circuit manages the consecutive random frames display. This ensures 
 
 This secure display channel:
 
-- Prevents overlay attacks and clipper malware
+- Prevents [advanced malware](/proof-of-human-intent/threat-model)
 - Makes tampering visible
 - Works even on infected devices
 - Makes transaction spoofing ineffective
@@ -88,6 +93,6 @@ This secure display channel:
 
 - No need for kernel access or malware detection
 - Secure even on compromised devices
-- Simpler and clearer than traditional mobile EDR solutions
+- Simpler and clearer than [traditional mobile EDR solutions](/advantages/vs-edr-mtd-security)
 
-This technology **enables hardware-wallet level security with nothing more than your smartphone**.
+This technology **enables hardware-wallet level security through your smartphone**.

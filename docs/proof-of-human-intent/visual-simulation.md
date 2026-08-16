@@ -1,7 +1,7 @@
 ---
 title: Visual Simulation
 description: Try a live simulation of visual cryptography validating a transaction intent from a mobile screen.
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Visual Simulation
@@ -23,6 +23,8 @@ You can leave the "participant field" empty.
 
 ## 4. Look at your screenshot
 
-Thanks to human persistence of vision, your **eyes and brain retain a visual impression for about 1/30 of a second** — the exact time depends on the brightness of the image.
+:::note
+On the **live screen**, you see the intent and one-time code. In the **screenshot**, that information is gone — machines see noise; your eyes merged the frames.
+:::
 
-Interstellar leverages this to generate so-called [visual cryptographic shares](/proof-of-human-intent/dynamic-visual-cryptography) which are displayed at 60–120 fps on your device — **eliminating significant attack vectors** like phishing approvals, blind signing, malware proxying, overlay attacks, clipper malware, unintended agent executions, and more.
+Your **eyes and brain retain a visual impression for about 1/30 of a second**. Interstellar uses that [persistence of vision](/proof-of-human-intent/dynamic-visual-cryptography) to display frames at 60–120 fps that only a human can decode. See the [Threat Model](/proof-of-human-intent/threat-model) for what this stops.
