@@ -26,13 +26,13 @@ Your phone's built-in **Secure Element (SE)** stores a special key that's activa
 
 ### 2. The Intent Message
 
-When initiating an intent, **you see exactly what you're approving** — the amount and destination. While this may seem basic, it's **presented in a way that malware cannot tamper with or hide**, making it a crucial security factor.
+When initiating an intent, [you see exactly what you're approving](/proof-of-human-intent/dynamic-visual-cryptography) — the amount and destination. While this may seem basic, it's **presented in a way that malware cannot tamper with or hide**, making it a crucial security factor.
 
 ### 3. Dynamic Visual Authorization
 
-This is where it gets innovative. **The system creates a unique cryptographic image "movie"** that only human eyes can properly see — [Dynamic Visual Cryptography](/proof-of-human-intent/dynamic-visual-cryptography):
+This is where it gets innovative. **The system creates a unique cryptographic "movie"** that only human eyes can properly see:
 
-- The “movie” is **generated on-chain** and contains a one-time code
+- The “movie” is [generated on-chain](/design/interstellar-blockchain) and contains a one-time code
 - Each frame is **protected by advanced cryptography** called [garbled circuits](/proof-of-human-intent/garbled-circuits)
 - The code is only visible to humans, not to screen-capturing malware
 
@@ -56,18 +56,9 @@ This **multi-layered security** is effective against sophisticated threats. The 
 Unlike [traditional EDRs](/advantages/vs-edr-mtd-security), which struggle on mobile, this approach:
 
 - Is delivered through a **simple [SDK](/mobile-sdk) integration**
-- Requires **no additional hardware**
+- Requires **no additional hardware** or seed phrases
 - Focuses **protection on critical operations**
 - Provides **security equivalent to hardware wallets**
 - Works **even on compromised devices**
 
 It’s a new paradigm: rather than detecting every threat, it creates a **sealed, verifiable environment for sensitive operations** that remains trustworthy regardless of device integrity.
-
-## Summary
-
-This is not just an incremental improvement — it’s a **new mobile security category**:
-
-- Hardware-wallet grade protection on your phone
-- No seed phrases or extra devices to buy
-- Resistant to trojans, overlays, prompt injection, and advanced malware
-- Simple and user-friendly

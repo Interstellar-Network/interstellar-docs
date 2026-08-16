@@ -12,7 +12,7 @@ Think of it like a special movie that **only human eyes can properly see**, but 
 
 ## Frame Generation
 
-Each "frame" of the movie is created by a one-time [garbled circuit](/proof-of-human-intent/garbled-circuits) generated on the Interstellar blockchain.
+Each "frame" of the movie is created by a one-time [garbled circuit](/proof-of-human-intent/garbled-circuits) generated on the [Interstellar Blockchain](/design/interstellar-blockchain).
 
 **Garbled circuits work like secure black boxes**:
 

@@ -14,7 +14,7 @@ Interstellar's underlying technology unlocks **advanced account abstraction and 
 
 ### 1. Backup File
 
-**Backup your** [**garbled circuit file**](/proof-of-human-intent/garbled-circuits) to your cloud provider of choice, back it up locally, or send it to a trusted person.
+**Backup a** [**freshly generated garbled circuit**](/design/interstellar-blockchain) to your cloud provider of choice, back it up locally, or send it to a trusted contact person.
 
 ### 2. Backup Item
 

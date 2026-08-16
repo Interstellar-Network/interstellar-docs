@@ -24,7 +24,7 @@ You can leave the "participant field" empty.
 ## 4. Look at your screenshot
 
 :::note
-On the **live screen**, you see the intent and one-time code. In the **screenshot**, that information is gone — machines see noise; your eyes merged the frames.
+On the **live screen**, you see the intent and one-time code. In the **screenshot**, that information is gone.
 :::
 
-Your **eyes and brain retain a visual impression for about 1/30 of a second**. Interstellar uses that [persistence of vision](/proof-of-human-intent/dynamic-visual-cryptography) to display frames at 60–120 fps that only a human can decode. See the [Threat Model](/proof-of-human-intent/threat-model) for what this stops.
+Your **eyes and brain retain a visual impression for about 1/30 of a second**. Interstellar uses that [persistence of vision](/proof-of-human-intent/dynamic-visual-cryptography) to display frames at 60–120 fps that only a human can decode. See the [threat model](/proof-of-human-intent/threat-model) for what this stops.

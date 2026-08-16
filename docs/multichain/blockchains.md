@@ -21,6 +21,6 @@ Interstellar is designed to **secure intents across multiple chains**. Current d
 - 🟠 Tempo
 - 🟠 Arc
 
-:::note
+:::info
 Public mainnet timelines and integration guides will be published here as each network goes live.
 :::

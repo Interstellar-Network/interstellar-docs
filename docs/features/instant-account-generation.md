@@ -12,6 +12,6 @@ sidebar_position: 2
 
 **Interstellar is built for effortless UX** — no login, no password, no email, no phone number, no additional hardware, no seed phrase.
 
-**Instantly generate a unified account** with full self-custodial access to [multiple blockchains](/multichain/blockchains), **embedded within your application**. Pair generated accounts with a [secure account backup](/features/secure-account-backup) so recovery stays under the user's control.
+**Instantly generate a unified account** with full self-custodial access to [multiple blockchains](/multichain/blockchains), **embedded within your application**. Pair generated accounts with [secure account backups](/features/secure-account-backup) for next-gen recovery.
 
 ![Instant Account Generation](/img/Instant_Account_Generation_Slide.png)
