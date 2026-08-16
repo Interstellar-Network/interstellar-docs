@@ -21,7 +21,7 @@ You can leave the "participant field" empty.
 
 ## 3. Take a screenshot
 
-## 4. Look at your screenshot
+## 4. Look at your screenshot ✨
 
 :::note
 On the **live screen**, you see the intent and one-time code. In the **screenshot**, that information is gone.
