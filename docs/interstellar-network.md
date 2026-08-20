@@ -13,7 +13,7 @@ We believe humans should be kept in the loop for certain critical digital action
 
 Our designs include cognition-based authorization, anchored around mobile devices and humans. Built for effortless UX — no login, no password, no email, no phone number, no additional hardware, no seed phrase.
 
-Start by exploring [Proof of Human Intent](/category/proof-of-human-intent) or switch to the [Mobile SDK](/docs/mobile-sdk.md) for practical features and supported protocols.
+Start by exploring [Proof of Human Intent](/category/proof-of-human-intent) or switch to the [Mobile SDK](/mobile-sdk) for practical features and supported protocols.
 
 *Welcome to the future.*
 
