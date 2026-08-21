@@ -55,7 +55,7 @@ This **multi-layered security** is effective against sophisticated threats. The 
 
 Unlike [traditional EDRs](/advantages/vs-edr-mtd-security), which struggle on mobile, this approach:
 
-- Is delivered through a **simple [SDK](/mobile-sdk) integration**
+- Is delivered through a **simple [SDK integration](/mobile-sdk)**
 - Requires **no additional hardware** or seed phrases
 - Focuses **protection on critical operations**
 - Provides **security equivalent to hardware wallets**
