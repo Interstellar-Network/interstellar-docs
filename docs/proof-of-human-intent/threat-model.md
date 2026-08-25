@@ -18,6 +18,14 @@ An estimated $17 billion was lost globally to crypto scams and fraud in 2025, wi
 - Screen always shows the real action to be executed
 - Human-only readable confirmations
 
+## Prompt Injection
+
+Hidden instructions in websites, emails, and documents can **hijack AI agents into sending payments**. Prompt injection is ranked **#1 on the OWASP Top 10 for LLM Applications**, with direct attacks succeeding more than **79% of the time** in 2026 testing — and **live campaigns have already tricked agents into crypto transfers**. Interstellar keeps the [human in the loop](/multichain/agents):
+
+- Critical actions still require cryptographic human approval
+- The screen shows the real destination and amount, not the injected instruction
+- Visual one-time codes are human-only readable — agents cannot decode or auto-approve them
+
 ## Clipper Malware
 
 Warned about by Binance and others, these attacks **change transaction details** via clipboard manipulation. Interstellar makes this ineffective because:
@@ -31,11 +39,3 @@ Banking and financial apps are often tricked with **fake UI overlays**. Interste
 
 - An attacker would need to mimic 60–120 fps image changes in sync
 - Computationally infeasible and human-only decipherable
-
-## Prompt Injection
-
-Hidden instructions in websites, emails, and documents can **hijack AI agents into sending payments**. Prompt injection is ranked **#1 on the OWASP Top 10 for LLM Applications**, with direct attacks succeeding more than **79% of the time** in 2026 testing — and **live campaigns have already tricked agents into crypto transfers**. Interstellar keeps the [human in the loop](/multichain/agents):
-
-- Critical actions still require cryptographic human approval
-- The screen shows the real destination and amount, not the injected instruction
-- Visual one-time codes are human-only readable — agents cannot decode or auto-approve them
