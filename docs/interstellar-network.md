@@ -11,7 +11,9 @@ We believe humans should be kept in the loop for certain critical digital action
 
 **Interstellar is a deep-tech infrastructure pioneering human-intent verification, advanced authorization, and world-leading security across blockchains, payment rails, and agentic networks.** ✨
 
-Our designs include cognition-based human authorization and account abstraction, anchored to mobile devices. Built for effortless UX — no passwords, no email, no seed phrase, no extra hardware.
+Our designs include cognition-based human authorization and account abstraction, anchored to mobile devices.
+
+Built for effortless UX — no passwords, no email, no seed phrase, no extra hardware.
 
 Start by exploring [Proof of Human Intent](/category/proof-of-human-intent) or switch to the [Mobile SDK](/mobile-sdk) for practical features and supported protocols.
 
