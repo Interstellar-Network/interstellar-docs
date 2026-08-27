@@ -7,7 +7,7 @@ slug: /
 
 # Interstellar Network
 
-We believe humans should be kept in the loop for certain critical digital actions. As we delegate more financial transactions and sensitive operations (like account controls) to agents, unintended actions can increasingly lead to irreversible outcomes.
+We believe humans should be kept in the loop for certain critical digital actions. As we delegate more financial transactions and sensitive operations like account controls to agents, unintended actions can increasingly lead to irreversible outcomes.
 
 **Interstellar is a deep-tech infrastructure pioneering human-intent verification, advanced authorization, and world-leading security across blockchains, payment rails, and agentic networks.** ✨
 
