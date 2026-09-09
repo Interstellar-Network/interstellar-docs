@@ -11,15 +11,19 @@ Interstellar is designed to **secure intents across multiple chains**. Current d
 ## Live on private Testnet
 
 - 🟢 Bitcoin
-- 🟢 Ethereum / EVM
+- 🟢 Ethereum
 - 🟢 Solana
 - 🟢 Polkadot
 
 ## Upcoming
 
+- 🟠 Arbitrum
+- 🟠 Arc
+- 🟠 Base
+- 🟠 BNB
 - 🟠 Hyperliquid
 - 🟠 Tempo
-- 🟠 Arc
+- 🟠 TRON
 
 :::info
 Public mainnet timelines and integration guides will be published here as each network goes live.
