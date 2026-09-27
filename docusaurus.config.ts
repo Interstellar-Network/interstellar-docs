@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Interstellar Docs',
-  tagline: 'Human-intent verification for blockchains, payments, and agents',
+  tagline: 'Human-intent verification for critical blockchain actions',
   favicon: 'img/Interstellar_Favicon_Black.png',
 
   future: {
@@ -77,9 +77,9 @@ const config: Config = {
         },
         {
           type: 'docSidebar',
-          sidebarId: 'sdkSidebar',
+          sidebarId: 'featuresSidebar',
           position: 'left',
-          label: 'Mobile SDK',
+          label: 'Features',
         },
       ],
     },

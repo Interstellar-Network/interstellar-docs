@@ -52,7 +52,7 @@ const sidebars: SidebarsConfig = {
     },
   ],
 
-  sdkSidebar: [
+  featuresSidebar: [
     {
       type: 'category',
       label: 'Features',
@@ -60,7 +60,7 @@ const sidebars: SidebarsConfig = {
         type: 'generated-index',
         title: 'Features',
         description:
-          "The Mobile SDK brings Interstellar's Proof of Human Intent (PoHI) with optional account infrastructure into your application. For integration or partnerships, reach out via contact@interstellar.network.",
+          "For integration or partnerships, reach out via LinkedIn, X, Discord, or contact@interstellar.network.",
       },
       items: [
         'features/proof-of-human-intent',
