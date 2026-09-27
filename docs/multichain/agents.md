@@ -6,7 +6,7 @@ sidebar_position: 2
 
 # Agents
 
-Interstellar is integrating into agent and machine-payment protocols so **critical delegations stay under human control**. [Prompt injections](/proof-of-human-intent/threat-model#prompt-injection) can hijack an agent into sending a payment; [Proof of Human Intent](/features/proof-of-human-intent) requires cryptographic human approval for those actions.
+**Increase agent productivity by disturbing them only when necessary**. Interstellar is integrating into agent and machine-payment protocols so [critical delegations stay under human control](/proof-of-human-intent/threat-model#prompt-injection). Proof of Human Intent requires [cryptographic human approval](/proof-of-human-intent/visual-simulation) for critical actions while non-critical flows continue without interuption.
 
 ## Upcoming
 

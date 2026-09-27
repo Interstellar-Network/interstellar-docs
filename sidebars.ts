@@ -53,14 +53,14 @@ const sidebars: SidebarsConfig = {
   ],
 
   sdkSidebar: [
-    'mobile-sdk',
     {
       type: 'category',
       label: 'Features',
       link: {
         type: 'generated-index',
         title: 'Features',
-        description: 'Unique capabilities of the Interstellar Mobile SDK. ✨',
+        description:
+          "The Mobile SDK brings Interstellar's human-intent verification and account infrastructure into your application — without seed phrases, extra hardware, or complex onboarding flows. Reach out under contact@interstellar.network to get a live demo.",
       },
       items: [
         'features/proof-of-human-intent',
