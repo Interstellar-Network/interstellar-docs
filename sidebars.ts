@@ -68,6 +68,9 @@ const sidebars: SidebarsConfig = {
         'features/secure-account-backup',
       ],
     },
+  ],
+
+  multichainSidebar: [
     {
       type: 'category',
       label: 'Multichain',

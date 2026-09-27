@@ -81,6 +81,12 @@ const config: Config = {
           position: 'left',
           label: 'Features',
         },
+        {
+          type: 'docSidebar',
+          sidebarId: 'multichainSidebar',
+          position: 'left',
+          label: 'Multichain',
+        },
       ],
     },
     prism: {
