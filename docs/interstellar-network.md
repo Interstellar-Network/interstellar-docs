@@ -15,7 +15,7 @@ Our designs include cognition-based human authorization and account abstraction,
 
 Built for effortless UX — no passwords, no email, no seed phrase, no extra hardware.
 
-Start by exploring [Proof of Human Intent](/category/proof-of-human-intent) or switch to the [Mobile SDK](/mobile-sdk) for practical features and supported protocols.
+Start by exploring [Proof of Human Intent](/category/proof-of-human-intent) or Interstellar's unique [Features](/features/).
 
 *Welcome to the future.*
 
