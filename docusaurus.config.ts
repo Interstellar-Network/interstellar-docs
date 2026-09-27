@@ -48,7 +48,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'img/Persistence_of_Vision_Slide.png',
+    image: 'img/Persistence_of_Vision_Slide.png?v=2',
     metadata: [
       {
         name: 'description',

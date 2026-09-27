@@ -60,7 +60,7 @@ const sidebars: SidebarsConfig = {
         type: 'generated-index',
         title: 'Features',
         description:
-          "For integration or partnerships, reach out via LinkedIn, X, Discord, or contact@interstellar.network.",
+          "For integration or partnerships, reach out via LinkedIn, X, Discord, or contact@interstellar.network. ✨",
       },
       items: [
         'features/proof-of-human-intent',
