@@ -6,12 +6,12 @@ sidebar_position: 2
 
 # Agents
 
-**Increase agent productivity by disturbing them only when necessary**. Interstellar is integrating into agent and machine-payment protocols so [critical delegations stay under human control](/proof-of-human-intent/threat-model#prompt-injection). Proof of Human Intent requires [cryptographic human approval](/proof-of-human-intent/visual-simulation) for critical actions while non-critical flows continue without interruption.
+**Increase agent productivity** by disturbing them only when necessary. [Critical delegations](/proof-of-human-intent/threat-model) stay under human control, while non-critical flows continue without interuption.
 
 ## Upcoming
 
-- 🟠 x402
 - 🟠 MPP
+- 🟠 x402
 
 ## In Research
 

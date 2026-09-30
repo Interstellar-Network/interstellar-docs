@@ -6,9 +6,11 @@ sidebar_position: 1
 
 # Blockchains
 
-Interstellar is designed to **secure intents across multiple chains**. Current deployment status:
+Interstellar is designed to **secure intents across multiple chains**.
 
-## Live on private Testnet
+🔻 *Current deployment status*
+
+## Private Testnet
 
 - 🟢 Bitcoin
 - 🟢 Ethereum
