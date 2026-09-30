@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # Blockchains
 
-Interstellar is designed to **secure intents across multiple chains**.
+Interstellar is designed to **secure intents across multiple blockchains**.
 
 🔻 *Current deployment status*
 
