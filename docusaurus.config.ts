@@ -87,6 +87,11 @@ const config: Config = {
           position: 'left',
           label: 'Multichain',
         },
+        {
+          href: 'https://interstellar.network',
+          label: 'Socials',
+          position: 'right',
+        },
       ],
     },
     prism: {
