@@ -6,7 +6,9 @@ sidebar_position: 2
 
 # Agents
 
-**Increase agent productivity** by disturbing them only when necessary. [Critical delegations](/proof-of-human-intent/threat-model) stay under human control, while non-critical flows continue without interuption.
+**Increase agent productivity** by disturbing them only when necessary. Critical delegations stay under human control, while non-critical flows continue without interuption.
+
+🔻 *Current deployment status*
 
 ## Upcoming
 

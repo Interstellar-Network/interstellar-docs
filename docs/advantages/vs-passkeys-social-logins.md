@@ -8,8 +8,8 @@ sidebar_position: 2
 
 | Aspect | Passkeys & Social Logins | Interstellar |
 |--------|--------------------------|--------------|
-| **UX: Setup** | Requires an account with email, password, or phone number. Most [passkeys & social logins](https://x.com/joenrv/status/1857609397607813171) bind auth to that account. | Passkey-like onboarding with no pre-existing account requirement. |
+| **UX: Setup** | Requires an account with email, password, or phone number. Most [passkeys & social logins](https://x.com/joenrv/status/1857609397607813171) bind auth to that account. | Passkey-like onboarding with [no pre-existing account requirement](/features/instant-account-generation). |
 | **UX: Cross-platform** | Tied to the provider's domain, ecosystem, or cloud; switching platforms or devices can be painful. | Neutral, cross-platform, and WebAuthn compatible without vendor lock-in. |
-| **UX: Recovery** | Account recovery via provider (Apple / Google / Microsoft). | Recovery fully under your control; no single provider gate. |
+| **UX: Recovery** | Account recovery via provider (Apple / Google / Microsoft). | [Sovereign recovery](/features/secure-account-backup) fully under your control; no single provider gate. |
 | **Security: Centralization** | Provider holds centralized recovery and sync; provider breach, policy, or account breach affects access. | Recovery and sync manager lives onchain. |
-| **Security: Phishing** | Prone to phishing, malicious connections/approvals, and malware. | Secure even if the wallet or device is fully compromised; no credentials to steal. |
+| **Security: Phishing** | Prone to [phishing](/proof-of-human-intent/threat-model), malicious connections/approvals, and malware. | Secure even if the wallet or device is fully compromised; no credentials to steal. |

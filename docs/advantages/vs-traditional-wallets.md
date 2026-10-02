@@ -8,8 +8,8 @@ sidebar_position: 1
 
 | Aspect | Traditional Wallets | Interstellar |
 |--------|---------------------|--------------|
-| **UX: Setup** | Complex onboarding with seed phrases, passwords, manual backups, and multiple steps. | Instant onboarding, one-tap backup. |
+| **UX: Setup** | Complex onboarding with seed phrases, passwords, manual backups, and multiple steps. | [Instant onboarding](/features/instant-account-generation), one-tap backup. |
 | **UX: Daily Use** | Switching devices and wallets can be clunky, with repeated logins and approvals. | Consistent experience across devices with streamlined approvals optimized for mobile. |
-| **UX: Recovery** | Requires finding and re-entering long recovery phrases. | Seamless one-tap recovery. |
+| **UX: Recovery** | Requires finding and re-entering long recovery phrases. | [Seamless one-tap recovery](/features/secure-account-backup). |
 | **Security: Exposure** | Single point of failure: seed phrase and private key exposure; irreversible loss if compromised. | No seed phrases or accessible private keys. |
-| **Security: Phishing** | Highly vulnerable to phishing, malicious connections/approvals, and malware. | Secure even if the wallet or device is fully compromised; no credentials to steal. |
+| **Security: Phishing** | Highly vulnerable to [phishing](/proof-of-human-intent/threat-model), malicious connections/approvals, and malware. | Secure even if the wallet or device is fully compromised; no credentials to steal. |

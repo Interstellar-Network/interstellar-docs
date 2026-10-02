@@ -14,7 +14,7 @@ Interstellar's underlying technology unlocks **advanced account abstraction and 
 
 ### 1. Backup File
 
-**Backup a** [**freshly generated garbled circuit**](/design/interstellar-blockchain) to your cloud provider of choice, back it up locally, or send it to a trusted contact person.
+**Backup a** [**freshly generated garbled circuit**](/proof-of-human-intent/garbled-circuits) to your cloud provider of choice, back it up locally, or send it to a trusted contact person.
 
 ### 2. Backup Item
 
@@ -39,4 +39,4 @@ Interstellar's backup logic is fundamentally **different from passwords, private
 
 ## Why Multiple Recovery Options
 
-**Some users may require only one recovery method; others might need several**. That’s why Interstellar-recovery-powered accounts and wallets **enable users to securely add, remove, and combine recovery options** at any time, creating a custom multisignature recovery setup. This flexibility is crucial for achieving a healthy balance between user experience and security, which should remain **customizable to meet individual needs**.
+**Some users may require only one recovery method; others might need several**. That’s why **Interstellar enables users to securely add, remove, and combine recovery options at any time**, creating a custom multisignature recovery setup. This flexibility is crucial for achieving a healthy balance between user experience and security, which should remain **customizable to meet individual needs**.

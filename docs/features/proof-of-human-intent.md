@@ -14,7 +14,7 @@ For **non-critical actions**, execution happens **instantly or via simple device
 
 ## 2. Proof of Human Intent
 
-For **critical actions**, execution requires a **[secure PoHI screen](/proof-of-human-intent/dynamic-visual-cryptography)** — prompting the user to input a randomly generated one-time code, enshrined and displayed alongside the intended action.
+For **critical actions**, execution requires an embedded [secure PoHI screen](/proof-of-human-intent/dynamic-visual-cryptography) — prompting the user to input a randomly generated one-time code, enshrined and displayed alongside the intended action.
 
 ### Try the Secure PoHI Screen
 
@@ -39,5 +39,5 @@ If a user **unknowingly initiated a critical action** (due to phishing, blind si
 ![Proof of Human Intent](/img/Proof_Of_Human_Intent_Slide.png)
 
 :::tip
-Dive into the [threat model](/proof-of-human-intent/threat-model) and explore how [Proof of Human Intent](/proof-of-human-intent/overview) counters each threat.
+Dive into the [threat model](/proof-of-human-intent/threat-model) and explore the [dynamic visual cryptography](/proof-of-human-intent/dynamic-visual-cryptography) behind Proof of Human Intent.
 :::
