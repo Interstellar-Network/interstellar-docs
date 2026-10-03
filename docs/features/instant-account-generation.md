@@ -12,8 +12,10 @@ This UX barrier significantly slows down adoption, espcecially in a world of see
 
 While social logins & passkeys might seem to be efficient options already, they do carry major [trade-offs](/advantages/vs-passkeys-social-logins).
 
-**Interstellar is built for effortless UX** — no seed phrases, no emails, no passwords, no MFAs, no additional hardware.
+**Interstellar is built for effortless UX** — no seed phrases, no emails, no passwords, no MFAs, no social logins & passkeys, no additional hardware.
 
-**Instantly generate a unified account** with full self-custodial access to [multiple blockchains](/multichain/blockchains), **embedded within your application**. Pair generated accounts with [secure account backups](/features/secure-account-backup) for next-gen recovery.
+**Instantly generate universal accounts** with full self-custodial access to [multiple blockchains](/multichain/blockchains) **for your users — embedded into your application**.
+
+Pair universal accounts with [secure account backups](/features/secure-account-backup) for next-gen recovery.
 
 ![Instant Account Generation](/img/Instant_Account_Generation_Slide.png)
