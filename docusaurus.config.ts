@@ -82,12 +82,6 @@ const config: Config = {
           label: 'Features',
         },
         {
-          type: 'docSidebar',
-          sidebarId: 'multichainSidebar',
-          position: 'left',
-          label: 'Multichain',
-        },
-        {
           href: 'https://interstellar.network',
           label: 'Socials',
           position: 'right',

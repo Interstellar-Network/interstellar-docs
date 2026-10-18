@@ -50,27 +50,6 @@ const sidebars: SidebarsConfig = {
         'advantages/vs-edr-mtd-security',
       ],
     },
-  ],
-
-  featuresSidebar: [
-    {
-      type: 'category',
-      label: 'Features',
-      link: {
-        type: 'generated-index',
-        title: 'Features',
-        description:
-          "For integration and partnerships, reach out via contact@interstellar.network. ✨",
-      },
-      items: [
-        'features/proof-of-human-intent',
-        'features/instant-account-generation',
-        'features/secure-account-backup',
-      ],
-    },
-  ],
-
-  multichainSidebar: [
     {
       type: 'category',
       label: 'Multichain',
@@ -83,6 +62,24 @@ const sidebars: SidebarsConfig = {
       items: [
         'multichain/blockchains',
         'multichain/agents',
+      ],
+    },
+  ],
+
+  featuresSidebar: [
+    {
+      type: 'category',
+      label: 'Features',
+      link: {
+        type: 'generated-index',
+        title: 'Features',
+        description:
+          "For integration and partnerships, reach out via contact@interstellar.network ✨",
+      },
+      items: [
+        'features/proof-of-human-intent',
+        'features/instant-account-generation',
+        'features/secure-account-backup',
       ],
     },
   ],
