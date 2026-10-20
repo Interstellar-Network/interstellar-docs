@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Interstellar Docs',
-  tagline: 'Human-intent verification for critical blockchain actions',
+  tagline: 'Human-In-The-Loop Technology for Critical Digital Actions',
   favicon: 'img/Interstellar_Favicon_Black.png',
 
   future: {
@@ -53,7 +53,7 @@ const config: Config = {
       {
         name: 'description',
         content:
-          'Documentation for Interstellar Network — Proof of Human Intent, mobile security, and the Mobile SDK.',
+          'Documentation for Interstellar - Human-In-The-Loop Technology for Critical Digital Actions.',
       },
     ],
     colorMode: {
@@ -64,7 +64,7 @@ const config: Config = {
     navbar: {
       logo: {
         alt: 'Interstellar',
-        src: 'img/Interstellar_Circle_Icon_Black.png',
+        src: 'img/Interstellar_Logo.svg',
         href: 'https://interstellar.network',
         target: '_blank',
       },
@@ -82,8 +82,13 @@ const config: Config = {
           label: 'Features',
         },
         {
+          href: 'mailto:contact@interstellar.network',
+          label: 'Contact',
+          position: 'right',
+        },
+        {
           href: 'https://interstellar.network',
-          label: 'Socials',
+          label: 'Website',
           position: 'right',
         },
       ],
