@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Interstellar Docs',
-  tagline: 'Human-In-The-Loop Technology for Critical Digital Actions',
+  tagline: 'Proof of Human Intent',
   favicon: 'img/Interstellar_Favicon_Black.png',
 
   future: {
@@ -53,7 +53,7 @@ const config: Config = {
       {
         name: 'description',
         content:
-          'Documentation for Interstellar - Human-In-The-Loop Technology for Critical Digital Actions.',
+          'Documentation for Interstellar | Human-in-the-loop technology for blockchains, payment rails, and agentic applications.',
       },
     ],
     colorMode: {

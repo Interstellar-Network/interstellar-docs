@@ -7,15 +7,15 @@ slug: /
 
 # Interstellar Network
 
-We believe humans should be kept in the loop for certain critical digital actions. As we delegate more financial transactions and sensitive operations like account controls to agents, unintended actions can increasingly lead to irreversible outcomes.
+We believe humans should stay in the loop for certain critical digital actions. As we delegate more financial transactions and sensitive operations like account controls to agents, unintended actions can increasingly lead to irreversible outcomes.
 
-**Interstellar is a deep-tech infrastructure pioneering human-intent verification, advanced authorization, and world-leading security across blockchains, payment rails, and agentic networks.** ✨
+**Interstellar's deep-tech infrastructure pioneers human-intent verification, advanced authorization, and world-leading security across blockchains, payment rails, and agentic applications.** ✨
 
-Our designs include cognition-based human authorization and account abstraction, anchored to mobile devices.
+Our designs include cognition-based human authorization and novel account abstraction — without email logins, passwords, seed phrases, or extra hardware.
 
-Built for effortless UX — no passwords, no email, no seed phrase, no extra hardware.
+Anchored to everyday mobile devices, these new experiences are built for an agentic but human-centric future.
 
-Start by exploring [Proof of Human Intent](/category/proof-of-human-intent) or Interstellar's unique [Features](/category/features).
+Start by exploring [Proof of Human Intent](/category/proof-of-human-intent) or dive into its unique [features](/category/features).
 
 *Welcome to the future.*
 
