@@ -46,40 +46,22 @@ const sidebars: SidebarsConfig = {
       items: [
         'advantages/vs-traditional-wallets',
         'advantages/vs-passkeys-social-logins',
-        'advantages/vs-traditional-authenticators',
+        'advantages/vs-authenticator-apps',
         'advantages/vs-edr-mtd-security',
       ],
     },
     {
       type: 'category',
-      label: 'Multichain',
+      label: 'Deployments',
       link: {
         type: 'generated-index',
-        title: 'Multichain',
+        title: 'Deployments',
         description:
           'Blockchains and agent protocols Interstellar supports or is bringing online. ✨',
       },
       items: [
-        'multichain/blockchains',
-        'multichain/agents',
-      ],
-    },
-  ],
-
-  featuresSidebar: [
-    {
-      type: 'category',
-      label: 'Features',
-      link: {
-        type: 'generated-index',
-        title: 'Features',
-        description:
-          "For integration and partnerships, reach out via contact@interstellar.network ✨",
-      },
-      items: [
-        'features/proof-of-human-intent',
-        'features/instant-account-generation',
-        'features/secure-account-backup',
+        'deployments/blockchains',
+        'deployments/agents',
       ],
     },
   ],

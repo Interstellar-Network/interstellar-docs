@@ -87,7 +87,7 @@ This secure display channel:
 - Works even on infected devices
 - Makes transaction spoofing ineffective
 
-**Instead of detecting malware, it creates an environment where spoofing is useless**.
+Instead of detecting malware, it **creates an environment where spoofing is useless**.
 
 ## Deep Tech Advantage
 
@@ -95,4 +95,4 @@ This secure display channel:
 - Secure even on compromised devices
 - Simpler and clearer than [traditional mobile EDR solutions](/advantages/vs-edr-mtd-security)
 
-This technology **enables hardware-wallet level security through your smartphone**.
+Interstellar **brings a hardware wallet security level to your day-to-day smartphone** — without any extra hardware.

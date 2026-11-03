@@ -76,12 +76,6 @@ const config: Config = {
           label: 'Interstellar Network',
         },
         {
-          type: 'docSidebar',
-          sidebarId: 'featuresSidebar',
-          position: 'left',
-          label: 'Features',
-        },
-        {
           href: 'mailto:contact@interstellar.network',
           label: 'Contact',
           position: 'right',

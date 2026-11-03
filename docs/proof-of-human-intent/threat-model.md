@@ -6,9 +6,9 @@ sidebar_position: 2
 
 # Threat Model
 
-Proof of Human Intent does not try to detect every threat on the device. It **binds a specific action to a human validation** and produces a cryptographic proof that malware and AI cannot fake — even when the session, screen, or agent has already been compromised.
+Proof of Human Intent does not try to detect every threat on the device. **It protects the human intent itself — even when the session, screen, or agent has already been compromised.**
 
-This **multi-layered security** is effective against sophisticated threats, such as:
+This approach is far more effective than traditional models, designed to protect against sophisticated threats, such as:
 
 ## Scams and Social Engineering
 
@@ -16,26 +16,23 @@ An estimated $17 billion was lost globally to crypto scams and fraud in 2025, wi
 
 - No credentials to steal or reuse
 - Screen always shows the real action to be executed
-- Human-only readable confirmations
 
 ## Prompt Injection
 
-Hidden instructions in websites, emails, and documents can **hijack AI agents into sending payments**. Prompt injection is ranked **#1 on the OWASP Top 10 for LLM Applications**, with direct attacks succeeding more than **79% of the time** in 2026 testing — and **live campaigns have already tricked agents into crypto transfers**. Interstellar keeps the [human in the loop](/multichain/agents):
+Hidden instructions in websites, emails, and documents can **hijack AI agents into sending payments**. Prompt injection is ranked **#1 on the OWASP Top 10 for LLM Applications**, with direct attacks succeeding more than **79% of the time** in 2026 testing — and **live campaigns have already tricked agents into crypto transfers**. Interstellar keeps the [human in the loop](/deployments/agents):
 
-- Critical actions still require cryptographic human approval
+- Critical actions require cryptographically proven human confirmations
 - The screen shows the real destination and amount, not the injected instruction
-- Visual one-time codes are human-only readable — agents cannot decode or auto-approve them
+- Visual one-time codes are designed so that agents cannot auto-approve them
 
 ## Clipper Malware
 
-Warned about by Binance and others, these attacks **change transaction details** via clipboard manipulation. Interstellar makes this ineffective because:
+Warned about by Binance and others, **these attacks change legitimate transaction details** like destination addresses and transaction amounts via clipboard manipulation and replaces them by illegitimate ones. Interstellar makes this ineffective because:
 
-- Transaction data is cryptographically secured
-- Approval requires decoding a visual one-time code
+- Transaction data is cryptographically secured — enshrined into the approval screen
 
-## Overlay Attacks
+## Interface Manipulations
 
-Banking and financial apps are often tricked with **fake UI overlays**. Interstellar’s [dynamic visual cryptography](/proof-of-human-intent/dynamic-visual-cryptography) prevents this:
+Financial interfaces are often tricked with **fake UI overlays and overlay attacks**. This leads users to confirm one thing; but the system executing another. Interstellar’s [dynamic visual cryptography](/proof-of-human-intent/dynamic-visual-cryptography) prevents this:
 
-- An attacker would need to mimic 60–120 fps image changes in sync
-- Computationally infeasible and human-only decipherable
+- Randomly generated and dynamic 60–120 fps action interface is economically infeasible to manipulate
