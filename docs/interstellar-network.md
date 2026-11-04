@@ -1,6 +1,6 @@
 ---
 title: Interstellar Network
-description: Human-intent verification, advanced authorization, and mobile-first security for blockchains, payments, and agents.
+description: Interstellar's deep-tech infrastructure pioneers human-intent verification, advanced authorization, and world-leading security across blockchains, payment rails, and agentic applications.
 sidebar_position: 1
 slug: /
 ---

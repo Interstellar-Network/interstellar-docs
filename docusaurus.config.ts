@@ -53,7 +53,7 @@ const config: Config = {
       {
         name: 'description',
         content:
-          'Documentation for Interstellar | Human-in-the-loop technology for blockchains, payment rails, and agentic applications.',
+          'Documentation for Interstellar | Human approval for high-risk actions across blockchains, payment rails, agentic applications...',
       },
     ],
     colorMode: {
