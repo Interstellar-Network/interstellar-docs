@@ -31,8 +31,8 @@ Warned about by Binance and others, **these attacks change legitimate transactio
 
 - Transaction data is cryptographically secured — enshrined into the approval screen
 
-## Interface Manipulations
+## Interface Manipulation
 
-Financial interfaces are often tricked with **fake UI overlays and overlay attacks**. This leads users to confirm one thing; but the system executing another. Interstellar’s [dynamic visual cryptography](/proof-of-human-intent/dynamic-visual-cryptography) prevents this:
+Financial interfaces are often tricked with **fake UI overlays and overlay attacks**. This leads users to confirm one thing; but the system executing another.
 
-- Randomly generated and dynamic 60–120 fps action interface is economically infeasible to manipulate
+- Interstellar’s [dynamic visual cryptography](/proof-of-human-intent/dynamic-visual-cryptography) makes manipulation attempts economically infeasible

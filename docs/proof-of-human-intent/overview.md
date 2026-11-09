@@ -28,10 +28,10 @@ But this now also means that **AI-enabled scams prove 4.5 times more profitable 
 
 ## Proof of Human Intent
 
-**Binds a specific action to a human validation** and produces a cryptographic proof of the human intention at the exact time of execution that malware and AI cannot fake:
+**Binds a specific action to a human validation** and produces a cryptographic proof of the human intention at the exact time of execution:
 
 - **Secure Intent Screen** that UI manipulations cannot silently alter
-- **Short Cognitive Interaction** only a human can solve — embedded into the confirmation screen
+- **Short Cognitive Interaction** — embedded into the confirmation screen
 - **Proof of Execution** — exact action and time is verified by a decentralized signer network
 
 <iframe
