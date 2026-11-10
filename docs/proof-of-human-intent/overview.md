@@ -45,7 +45,7 @@ But this now also means that **AI-enabled scams prove 4.5 times more profitable 
 
 ## Learn More
 
-- [Threat Model](/proof-of-human-intent/threat-model) — what PoHI stops after login
+- [Threat Model](/proof-of-human-intent/threat-model) — what PoHI defends against
 - [Dynamic Visual Cryptography](/proof-of-human-intent/dynamic-visual-cryptography) — how the secure visual channel works
 - [Visual Simulation](/proof-of-human-intent/visual-simulation) — try it yourself
 - [Garbled Circuits](/proof-of-human-intent/garbled-circuits) — the cryptographic foundation

@@ -33,10 +33,8 @@ When initiating an intent, you [see exactly what you're approving](/proof-of-hum
 - The “movie” is [generated on-chain](/design/interstellar-blockchain) and contains a one-time code
 - Each frame is **protected by advanced cryptography** called [garbled circuits](/proof-of-human-intent/garbled-circuits)
 
-### 4. Under Development
-
 :::info
-**Confidential upcoming features are currently under development and have yet to be revealed.**
+**Upcoming confidential features are currently under development and have yet to be revealed.**
 :::
 
 ## Protection Against Advanced Threats
@@ -55,7 +53,6 @@ Unlike [traditional EDRs](/advantages/vs-edr-mtd-security), which struggle on mo
 - Is delivered through a **simple integration**
 - Requires **no additional hardware** or seed phrases
 - Focuses **protection on critical operations**
-- Provides **security equivalent to hardware wallets**
 - Works **even on compromised devices**
 
 It’s a new paradigm: rather than detecting every threat, it creates a **sealed, verifiable environment for sensitive operations** that remains trustworthy regardless of device integrity.
