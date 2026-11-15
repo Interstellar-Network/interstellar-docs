@@ -6,7 +6,7 @@ sidebar_position: 2
 
 # Agents
 
-**Increase agent productivity** by disturbing sessions only when necessary. Critical delegations stay under human control, while non-critical flows continue without interuption.
+**Increase agent productivity** by disturbing running sessions only when necessary. Critical delegations stay under human control, while non-critical flows continue without interuption.
 
 🔻 *Current deployment status*
 
