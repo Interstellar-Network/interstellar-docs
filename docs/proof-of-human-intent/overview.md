@@ -6,11 +6,11 @@ sidebar_position: 1
 
 # Overview
 
-## Proof of Human Intent (PoHI)
+## Proof of Human Intent
 
-**A universal layer** that **secures intent-based abstr/actions** across **blockchains, payment rails, and agentic applications**.
+A **universal layer** that **secures human intent** before an agent can execute critical actions **across blockchains, payment rails, and agentic applications**.
 
-It ensures that no high-consequential actions — **important transactions/smart-contract calls/account recoveries/agentic delegations** — are executed, unless a **human has cryptographically approved that exact action**, even when the device is compromised.
+It ensures that no high-risk action — **critical transaction/account recovery/agent delegation** — is executed, unless a **human has cryptographically approved that exact action**, even when the device is compromised.
 
 ![Human-Centric Intents](/img/Human-Intent_Verification_Slide.png)
 
