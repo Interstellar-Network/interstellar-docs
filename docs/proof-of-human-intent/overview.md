@@ -6,11 +6,9 @@ sidebar_position: 1
 
 # Overview
 
-## Proof of Human Intent
+**Today’s security** checks two things: **identity and authorization**. Both **can pass while no human ever intended the action**. An agent or malware inside a trusted session has the right identity and the right permissions. **What it lacks is the human’s intent**.
 
-A **universal layer** that **secures human intent** before an agent can execute critical actions **across blockchains, payment rails, and agentic applications**.
-
-It ensures that no high-risk action — **critical transaction/account recovery/agent delegation** — is executed, unless a **human has cryptographically approved that exact action**, even when the device is compromised.
+**Proof of Human Intent** ensures that no critical action — **transaction/account settings/agent delegation** — is executed, unless a **human has cryptographically approved that exact action**, even when the device is compromised.
 
 ![Human-Centric Intents](/img/Human-Intent_Verification_Slide.png)
 
@@ -28,7 +26,7 @@ But this now also means that **AI-enabled scams prove 4.5 times more profitable 
 
 ## Proof of Human Intent
 
-**Binds a specific action to a human validation** and produces a **cryptographic proof of the human intention** at the exact time of execution:
+**Binds a specific action to a human validation** and produces a **cryptographic proof of the human intent** at the exact moment of execution:
 
 - **Secure Intent Screen** that UI manipulations cannot silently alter
 - **Short Cognitive Interaction** — embedded into the confirmation screen

@@ -7,11 +7,11 @@ slug: /
 
 # Interstellar Network
 
-We believe humans should stay in the loop for certain critical digital actions. As we delegate more financial transactions and sensitive operations like account controls to agents, unintended actions can increasingly lead to irreversible outcomes.
+As we delegate more financial transactions and sensitive operations like account controls to agents, unintended actions increasingly lead to irreversible outcomes. We believe humans should stay in the loop for the ones that matter.
 
-**Interstellar pioneers proof of human intent. A universal layer that verifies human authorization before agents execute critical actions across blockchains, payment rails, and agentic applications.** ✨
+**Introducing Proof of Human Intent: a new security category for the agentic era and first of its kind dynamic human-intent authorization across blockchains, payment rails, and agentic applications.** ✨
 
-Designed to increase agent productivity while keeping humans in the loop.
+Designed to increase agent productivity while keeping humans in control.
 
 *The future is human-centric.*
 
