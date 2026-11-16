@@ -9,9 +9,9 @@ slug: /
 
 We believe humans should stay in the loop for certain critical digital actions. As we delegate more financial transactions and sensitive operations like account controls to agents, unintended actions can increasingly lead to irreversible outcomes.
 
-**Interstellar pioneers human intent security: a new universal layer that secures intent-based abstr/actions across blockchains, payment rails, and agentic applications.** ✨
+**Interstellar verifies human intent before an agent can move funds or execute critical actions across blockchains, payment rails, and agentic applications.** ✨
 
-Designed to increase agent productivity while keeping humans in the loop for high-risk actions.
+Designed to increase agent productivity while keeping humans in the loop.
 
 *The future is human-centric.*
 

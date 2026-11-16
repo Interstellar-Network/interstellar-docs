@@ -8,9 +8,9 @@ sidebar_position: 1
 
 ## Proof of Human Intent (PoHI)
 
-**A new universal layer that secures intent-based abstr/actions across blockchains, payment rails, and agentic applications.
+**A universal layer** that **secures intent-based abstr/actions** across **blockchains, payment rails, and agentic applications**.
 
-It ensures that no high-risk actions — **important transactions/smart-contract calls/account recoveries/agentic delegations** — are executed, unless a **human has cryptographically approved that exact action**, even when the device is compromised.
+It ensures that no high-consequential actions — **important transactions/smart-contract calls/account recoveries/agentic delegations** — are executed, unless a **human has cryptographically approved that exact action**, even when the device is compromised.
 
 ![Human-Centric Intents](/img/Human-Intent_Verification_Slide.png)
 
@@ -20,7 +20,7 @@ But this now also means that **AI-enabled scams prove 4.5 times more profitable 
 
 ## Authentication ≠ Intent
 
-**Malware and AI agents now act after login** — draining wallets and **triggering irreversible actions** while security still trusts the authenticated session:
+**AI agents & malware now act after login** — draining wallets and **triggering irreversible actions** while security still trusts the authenticated session:
 
 - **Interface manipulations** trick the user into “confirming” one thing, but the system executing another
 - **Instant settlements** (blockchains, real-time payments) have no rollback window
