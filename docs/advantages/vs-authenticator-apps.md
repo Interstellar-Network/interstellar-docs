@@ -1,6 +1,6 @@
 ---
 title: vs Authenticators Apps
-description: How Interstellar compares to TOTP authenticators on setup, validation, recovery, and phishing resistance.
+description: How Interstellar compares to TOTP authenticators.
 sidebar_position: 3
 ---
 

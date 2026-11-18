@@ -1,18 +1,16 @@
 ---
 title: Interstellar Network
-description: Interstellar's deep-tech infrastructure pioneers human-intent verification, advanced authorization, and world-leading security across blockchains, payment rails, and agentic applications.
+description: Interstellar pioneers verifiable human intent. Explore a world that enables safe AI adoption, compliant automation and human control at planetary scale.
 sidebar_position: 1
 slug: /
 ---
 
 # Interstellar Network
 
-As we delegate more financial transactions and sensitive operations like account controls to agents, unintended actions increasingly lead to irreversible outcomes. We believe humans should stay in the loop for the ones that matter.
+**We believe that human intent will become one of the most important trust signals of the AI era.**
 
-**Introducing Proof of Human Intent: a new security category for the agentic era and first of its kind dynamic human-intent authorization across blockchains, payment rails, and agentic applications.** ✨
+**Just as digital identity became essential for the internet economy, verifiable human intent will become essential for autonomous economies powered by AI agents.**
 
-Designed to increase agent productivity while keeping humans in control.
-
-*The future is human-centric.*
+**Our vision is to make proof of human intent a universal standard for critical digital actions, enabling trusted interaction between people, AI systems, financial institutions and public infrastructures.** ✨
 
 ![Persistence of Vision](/img/Persistence_of_Vision_Slide.png)

@@ -6,10 +6,10 @@ type FormatterProp = ComponentProps<typeof TitleFormatterProvider>['formatter'];
 
 // Docusaurus appends " | {site title}" to every tab. The landing page
 // (front matter title "Interstellar Network") should show only
-// "Interstellar Network Docs", without that suffix.
+// "Interstellar | Docs", without that suffix.
 const formatter: FormatterProp = (params) => {
   if (params.title?.trim() === 'Interstellar Network') {
-    return 'Interstellar Network Docs';
+    return 'Interstellar | Docs';
   }
   return params.defaultFormatter(params);
 };

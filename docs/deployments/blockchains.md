@@ -1,12 +1,12 @@
 ---
 title: Blockchains
-description: Multichain deployment status across Bitcoin, EVM, Solana, Polkadot, and upcoming networks.
+description: Blockchains Interstellar supports or is bringing online.
 sidebar_position: 1
 ---
 
 # Blockchains
 
-Interstellar is designed to **secure intents across multiple blockchains**.
+**Secure human intent across multiple blockchains**.
 
 🔻 *Current deployment status*
 

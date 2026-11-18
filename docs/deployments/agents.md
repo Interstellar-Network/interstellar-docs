@@ -1,12 +1,12 @@
 ---
 title: Agents
-description: Agent and payment-protocol integrations for human-in-the-loop authorization.
+description: Agentic payment protocols Interstellar supports or is bringing online.
 sidebar_position: 2
 ---
 
 # Agents
 
-**Increase agent productivity** by disturbing running sessions only when necessary. Critical delegations stay under human control, while non-critical flows continue without interuption.
+**Increase agent productivity**. Critical delegations stay under human control, while non-critical flows continue without interruption.
 
 🔻 *Current deployment status*
 

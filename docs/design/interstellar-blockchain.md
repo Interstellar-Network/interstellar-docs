@@ -1,12 +1,12 @@
 ---
 title: Interstellar Blockchain
-description: A purpose-built Layer 1 for execution and verification of human-intent proofs.
+description: A purpose-built Layer 1 that depends on human intent for execution.
 sidebar_position: 2
 ---
 
 # Interstellar Blockchain
 
-Interstellar consists of its own **purpose-built Layer 1 blockchain**, responsible for execution and verification of Proof of Human Intent (PoHI) workflows through highly optimized customizations.
+Interstellar consists of its own **purpose-built blockchain**, responsible for execution and verification of Proof of Human Intent (PoHI) workflows through highly optimized customizations.
 
 ![Cutting-Edge Blockchain Technology](/img/Cutting_Edge_Blockchain_Technology_Slide.png)
 

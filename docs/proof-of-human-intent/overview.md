@@ -6,31 +6,30 @@ sidebar_position: 1
 
 # Overview
 
-**Today’s security** checks two things: **identity and authorization**. Both **can pass while no human ever intended the action**. An agent or malware inside a trusted session has the right identity and the right permissions. **What it lacks is the human’s intent**.
-
-**Proof of Human Intent** ensures that no critical action — **transaction/account settings/agent delegation** — is executed, unless a **human has cryptographically approved that exact action**, even when the device is compromised.
-
-![Human-Centric Intents](/img/Human-Intent_Verification_Slide.png)
-
-**57% of all web traffic is now non-human.** The newest and **fastest-growing slice is AI agents acting on behalf of users**: Cloudflare measured that kind of agent traffic **growing more than 15x in 2025 alone**.
-
-But this now also means that **AI-enabled scams prove 4.5 times more profitable than traditional ones**.
+**57% of all web traffic is now non-human.** The newest and **fastest-growing slice is AI agents acting on behalf of users**: Cloudflare measured that kind of agent traffic **growing more than 15x in 2025 alone**. Meanwhile, **AI-enabled scams prove 4.5 times more profitable** than traditional ones. As we delegate more financial transactions and sensitive operations like account controls to agents, **unintended actions increasingly lead to irreversible outcomes**.
 
 ## Authentication ≠ Intent
 
-**AI agents & malware now act after login** — draining wallets and **triggering irreversible actions** while security still trusts the authenticated session:
+For decades, **digital security has been built around identity and authorization**: who you are, and what you’re allowed to do. Both can pass while no human ever intended the action. An agent or malware inside a trusted session has the right identity and the right permissions. **What it lacks is the human’s intent.**
 
-- **Interface manipulations** trick the user into “confirming” one thing, but the system executing another
+**AI agents & malware act after login** — draining wallets and **triggering irreversible transactions** while security still trusts the authenticated session:
+
+- **Interface manipulations** trick the user into “confirming” one thing, while the system executes another
 - **Instant settlements** (blockchains, real-time payments) have no rollback window
-- Existing MFAs, biometrics, and passkeys all assume: *“If the device is authenticated, the action is legitimate.”*
+- Existing MFAs, biometrics, and passkeys all assume: ***“If the device is authenticated, the action is legitimate.”***
+
+![Human-Centric Intents](/img/Human-Intent_Verification_Slide.png)
 
 ## Proof of Human Intent
 
-**Binds a specific action to a human validation** and produces a **cryptographic proof of the human intent** at the exact moment of execution:
+**Binds a specific action to a human approval** and produces a **cryptographic proof** of the dynamic human-intent authorization that is required at the exact moment of execution — a proof that malware and malicious actors cannot forge. Proof of Human Intent **pioneers human intent security all the way to the screen**, so what the user approves is exactly what executes:
 
 - **Secure Intent Screen** that UI manipulations cannot silently alter
 - **Short Cognitive Interaction** — embedded into the confirmation screen
-- **Proof of Execution** — exact abstr/action is verified by a decentralized signer network
+- **Proof of Execution** — the exact action is verified by a decentralized signer network
+- Built to power **seamless digital approvals** across blockchains and agentic payments
+
+By **making intent cryptographically verifiable**, Proof of Human Intent aims to become the trust infrastructure that **enables safe AI adoption**, compliant automation and human control at planetary scale.
 
 <iframe
   title="Interstellar Network overview presentation"

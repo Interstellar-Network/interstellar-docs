@@ -1,14 +1,14 @@
 ---
 title: Threat Model
-description: How Proof of Human Intent stops scams, clipper malware, overlay attacks, and prompt injection — even after login.
+description: How Proof of Human Intent protects the human intent — even when the session, screen, or agent has already been compromised.
 sidebar_position: 2
 ---
 
 # Threat Model
 
-Proof of Human Intent does not try to detect every threat on the device. **It protects the human intent itself — even when the session, screen, or agent has already been compromised.**
+**Today’s security only verifies credentials, not human intent.** Once you’re logged in, **malware, scams and compromised AI agents can still move money**, leading to irreversible outcomes.
 
-This approach is far more effective than traditional models, designed to protect against sophisticated threats, such as:
+**Proof of Human Intent does not try to detect every threat** on the device. **It protects the human intent itself** — even when the session, screen, or agent has already been compromised. This approach is **more effective than credential based models because there is no static information to expose**. PoHI was designed to protect against sophisticated threats, such as:
 
 ## Scams and Social Engineering
 
@@ -35,4 +35,4 @@ Warned about by Binance and others, **these attacks change legitimate transactio
 
 Financial interfaces are often tricked with **fake UI overlays and overlay attacks**. This leads users to confirm one thing; but the system executing another.
 
-- Interstellar’s [dynamic visual cryptography](/proof-of-human-intent/dynamic-visual-cryptography) makes manipulation attempts economically infeasible
+- Interstellar’s [dynamic visual cryptography](/proof-of-human-intent/dynamic-visual-cryptography) makes manipulation attempts costly and easy to detect

@@ -1,6 +1,6 @@
 ---
 title: Dynamic Visual Cryptography
-description: A human-only visual channel built from one-time garbled-circuit frames and persistence of vision.
+description: A visual channel built from one-time garbled-circuit frames and persistence of vision.
 sidebar_position: 3
 ---
 
@@ -80,4 +80,4 @@ This secure display channel:
 - Secure even on compromised devices
 - Simpler and clearer than [traditional mobile EDR solutions](/advantages/vs-edr-mtd-security)
 
-Instead of detecting malware, it **creates an environment where spoofing is useless**.
+Instead of detecting malware, it **creates an environment where spoofing is visible**.
