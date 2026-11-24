@@ -1,6 +1,6 @@
 ---
 title: Visual Simulation
-description: Try a live simulation of visual cryptography validating a transaction intent from a mobile screen.
+description: Experience dynamic visual cryptography in action through an intent validation simulation.
 sidebar_position: 4
 ---
 

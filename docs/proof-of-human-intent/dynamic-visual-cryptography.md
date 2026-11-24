@@ -43,11 +43,11 @@ This is how **Interstellar leverages human persistence of vision** with a basic 
 
 ![Superposed Frames Image](/img/Superposed_Frames_Slide.png)
 
-The garbled circuit manages the consecutive random frames display. This ensures that the circuit execution **does not leak any secret information**, such as the **one-time code** or the **random keyboard topology** associated with the transaction. The **transaction message** — amount, address, intent — is also **embedded into the circuit**, remaining inaccessible to attackers and preventing any modifications. This creates a **secure visual channel between the blockchain and the user**.
+The garbled circuit manages the consecutive random frames display. This ensures that the circuit execution **does not leak any secret information**, such as the **one-time code** or the **random keyboard topology** associated with the transaction. The **transaction message** — e.g. amount & destination address — is also **embedded into the circuit**, remaining inaccessible to attackers and preventing any modifications. This creates a **secure visual channel between the blockchain and the user**.
 
 ## Frame Generation
 
-Each "frame" of the movie is created by a one-time [garbled circuit](/proof-of-human-intent/garbled-circuits) generated on the [Interstellar Blockchain](/design/interstellar-blockchain).
+Each "frame" of the movie is created by a one-time [garbled circuit](/proof-of-human-intent/garbled-circuits) generated on purpose-built [signer networks](/components/signer-networks).
 
 **Garbled circuits work like secure black boxes**:
 
@@ -64,20 +64,3 @@ Each "frame" of the movie is created by a one-time [garbled circuit](/proof-of-h
 - Intent data is embedded in the garbled circuit and never materializes in memory
 - Real-time probabilistic checks pair the sequence on screen with the Secure Element, biometrics, and more
 - Randomized per-frame visual watermarks defeat replay and precomputation, so an attack costs more than it can return
-
-## Garbled Circuits + Human Biology = Secure UI
-
-This secure display channel:
-
-- Prevents [advanced threats](/proof-of-human-intent/threat-model)
-- Makes tampering visible
-- Works even on infected devices
-- Makes transaction spoofing ineffective
-
-## Deep Tech Advantage
-
-- No need for kernel access or malware detection
-- Secure even on compromised devices
-- Simpler and clearer than [traditional mobile EDR solutions](/advantages/vs-edr-mtd-security)
-
-Instead of detecting malware, it **creates an environment where spoofing is visible**.

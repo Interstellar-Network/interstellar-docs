@@ -1,6 +1,6 @@
 ---
 title: Threat Model
-description: How Proof of Human Intent protects the human intent — even when the session, screen, or agent has already been compromised.
+description: How Proof of Human Intent protects critical digital actions — even when the session, agent, or device has already been compromised.
 sidebar_position: 2
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Overview
-description: Proof of Human Intent binds critical digital actions to human validation — even on compromised devices.
+description: Proof of Human Intent makes human intent cryptographically verifiable.
 sidebar_position: 1
 ---
 

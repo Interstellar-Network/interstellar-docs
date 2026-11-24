@@ -28,5 +28,5 @@ sidebar_position: 1
 - 🟠 TRON
 
 :::info
-Public mainnet timelines and integration guides will be published here as each network goes live.
+Public mainnet timelines and integration guides will be published as each network goes live.
 :::

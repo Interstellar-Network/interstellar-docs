@@ -1,6 +1,6 @@
 ---
 title: vs Traditional Wallets
-description: Compare Interstellar to traditional wallets.
+description: How Interstellar compares to traditional wallets.
 sidebar_position: 1
 ---
 

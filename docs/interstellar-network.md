@@ -1,6 +1,6 @@
 ---
 title: Interstellar Network
-description: Interstellar pioneers verifiable human intent. Explore a world that enables safe AI adoption, compliant automation and human control at planetary scale.
+description: Interstellar pioneers verifiable human intent. Welcome to a world that enables safe AI adoption, compliant automation and human control at planetary scale.
 sidebar_position: 1
 slug: /
 ---

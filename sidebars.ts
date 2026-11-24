@@ -10,7 +10,7 @@ const sidebars: SidebarsConfig = {
         type: 'generated-index',
         title: 'Proof of Human Intent',
         description:
-          'How Interstellar binds critical actions to human validation with cryptographic proofs. ✨',
+          'PoHI makes human intent cryptographically verifiable. ✨',
       },
       items: [
         'proof-of-human-intent/overview',
@@ -22,26 +22,26 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Design',
+      label: 'Core Components',
       link: {
         type: 'generated-index',
-        title: 'Design',
+        title: 'Core Components',
         description:
-          'Architecture and technology behind Interstellar Network. ✨',
+          'Interstellar connects your mobile device to purpose-built signer networks to power PoHI workflows. ✨',
       },
       items: [
-        'design/mobile-devices',
-        'design/interstellar-blockchain',
+        'components/mobile-devices',
+        'components/signer-networks',
       ],
     },
     {
       type: 'category',
-      label: 'Core Advantages',
+      label: 'Advantages',
       link: {
         type: 'generated-index',
-        title: 'Core Advantages',
+        title: 'Advantages',
         description:
-          'How Interstellar compares to or complements other solutions. ✨',
+          'How does Interstellar compare to, or complement other solutions? ✨',
       },
       items: [
         'advantages/vs-traditional-wallets',
@@ -57,7 +57,7 @@ const sidebars: SidebarsConfig = {
         type: 'generated-index',
         title: 'Deployments',
         description:
-          'Blockchains and agent protocols Interstellar supports or is bringing online. ✨',
+          'Deployment environments Interstellar already supports or is bringing online. ✨',
       },
       items: [
         'deployments/blockchains',
