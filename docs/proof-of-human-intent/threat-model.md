@@ -6,33 +6,46 @@ sidebar_position: 2
 
 # Threat Model
 
-**Today’s security only verifies credentials, not human intent.** Once you’re logged in, **malware, scams and compromised AI agents can still move money**, leading to irreversible outcomes.
-
-**Proof of Human Intent does not try to detect every threat** on the device. **It protects the human intent itself** — even when the session, screen, or agent has already been compromised. This approach is **more effective than credential based models because there is no static information to expose**. PoHI was designed to protect against sophisticated threats, such as:
+**Proof of Human Intent** does not try to detect threats on the device or network level. It **protects the human intent itself, all the way to the screen, so what the human approves is exactly what executes** — even when the session, agent, or device has already been compromised. PoHI was designed to protect against sophisticated threats, such as:
 
 ## Scams and Social Engineering
 
-An estimated $17 billion was lost globally to crypto scams and fraud in 2025, with the average scam payment growing 253% year-over-year to about $2,764. Impersonation tactics and **AI-generated scams are overtaking cyberattacks as the primary method criminals use to steal funds**, with a reported 1,400% increase in impersonation scams and AI-enabled scams **proving 4.5 times more profitable than traditional ones**.
+**An estimated $17 billion was lost globally to crypto scams and fraud in 2025 alone.**
 
-- No credentials to steal or reuse
-- Screen always shows the real action to be executed
+- AI-generated scams are overtaking cyberattacks as criminals' main way to steal funds
+- Impersonation and AI-enabled scams are up 1,400% and are 4.5x more profitable than traditional ones
+- Average scam payment grew 253% year-over-year to about $2,764
+- Binance's $6.3 billion hack in 2026 used a fake job interview to exploit employee hardware and internal AI tools
+
+**No credential to steal or reuse:** the human must approve the exact action shown on the screen.
 
 ## Prompt Injection
 
-Hidden instructions in websites, emails, and documents can **hijack AI agents into sending payments**. Prompt injection is ranked **#1 on the OWASP Top 10 for LLM Applications**, with direct attacks succeeding more than **79% of the time** in 2026 testing — and **live campaigns have already tricked agents into crypto transfers**. Interstellar keeps the [human in the loop](/deployments/agents):
+**57% of all web traffic is now non-human, and the fastest-growing part of it is AI agents acting on behalf of users.**
 
-- Critical actions require cryptographically proven human confirmations
-- The screen shows the real destination and amount, not the injected instruction
-- Visual one-time codes are designed so that agents cannot auto-approve them
+- Hidden instructions in websites, emails and documents can hijack AI agents into sending payments
+- Ranked #1 on the OWASP Top 10 for LLM Applications, with direct attacks succeeding 79%+ of the time in 2026 testing
+- Live campaigns have already tricked agents into crypto transfers
+- Cloudflare measured this agent traffic growing more than 15x in 2025 alone
+
+**Agents cannot execute important payments:** [critical actions stay under human control](/deployments/agents)
 
 ## Clipper Malware
 
-Warned about by Binance and others, **these attacks change legitimate transaction details** like destination addresses and transaction amounts via clipboard manipulation and replaces them by illegitimate ones. Interstellar makes this ineffective because:
+**Warned about by Binance and others, clipper malware swaps a wallet address you copy for one the attacker controls.**
 
-- Transaction data is cryptographically secured — enshrined into the approval screen
+- Microsoft has tracked a Windows clipper campaign active since February 2026
+- In November 2026, attackers hijacked 178 websites, including BBC, Zoom and HSBC, to plant clipboard-swapping code
+- One bad paste is permanent: a trader lost $50 million in USDT after copy-pasting a fake address
+
+**Address has to appear on the approval screen**, so the human sees the destination that will actually execute.
 
 ## Interface Manipulation
 
-Financial interfaces are often tricked with **fake UI overlays and overlay attacks**. This leads users to confirm one thing; but the system executing another.
+**Compromised front-ends trick the user into "confirming" one thing while the system signs and executes another.**
 
-- Interstellar’s [dynamic visual cryptography](/proof-of-human-intent/dynamic-visual-cryptography) makes manipulation attempts costly and easy to detect
+- Bybit lost ~$1.5 billion in 2025 after attackers tampered with the Safe{'{Wallet}'} interface
+- Signers approved what looked like a normal transaction
+- When what you see isn't what you sign, even multi-signature setups give no protection
+
+**[Secure intent screen](/proof-of-human-intent/dynamic-visual-cryptography) cannot be silently altered**, so what the human approves is what gets signed.

@@ -23,9 +23,3 @@ A garbled circuit is a **cryptographic obfuscation technique** and algorithm tha
 - [A New Approach to Garbled Circuits](https://eprint.iacr.org/2021/739.pdf)
 
 This new scheme, proven secure against a PPT adversary, achieves a **major performance improvement** compared to previous methods (Fancy Garble and JustGarble), **while still incorporating the transaction message within the circuit**. Our optimizations — including parallelization, free gates, and especially tight memory management — contribute to this significant boost in performance.
-
-## Learn More
-
-- [Dynamic Visual Cryptography](/proof-of-human-intent/dynamic-visual-cryptography) — how the secure visual channel works
-- [Interstellar Blockchain](/design/interstellar-blockchain) — where one-time circuits are generated
-- [Mobile Devices](/design/mobile-devices) — how the phone becomes the intent surface

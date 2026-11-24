@@ -6,13 +6,13 @@ sidebar_position: 1
 
 # Mobile Devices
 
-Mobile devices play a crucial role in Interstellar's architecture. They are the **interaction surface for dynamic human-intents**.
+Mobile devices are the **interaction surface for dynamic human-intent authorization**.
 
 ![World-Leading Mobile Security](/img/World-Leading_Mobile_Security_Slide.png)
 
 ## Interstellar's Mobile Security Innovation
 
-PoHI **equips your everyday smartphone with next-generation mobile device security** by combining multiple layers of protection in a unique way. Unlike traditional solutions that try to detect malware — which is particularly difficult on mobile devices — this approach **creates a secure environment for critical digital actions that makes tempering attempts visible if your device has been compromised**.
+PoHI **equips your everyday smartphone with next-generation mobile device security** by combining multiple layers of protection. Unlike traditional solutions that try to detect malware — which is particularly difficult on mobile devices — this approach **creates a secure environment for critical digital actions that makes tempering attempts visible**.
 
 ## How It Works
 
@@ -39,7 +39,7 @@ When you initiate an intent, you [see exactly what you approve](/proof-of-human-
 
 ## Protection Against Advanced Threats
 
-This **multi-layered security approach** is effective against sophisticated threats. The [threat model](/proof-of-human-intent/threat-model) covers how Proof of Human Intent protects against each of them:
+This **multi-layered security approach** is effective against [sophisticated threats](/proof-of-human-intent/threat-model) such as:
 
 - Scams and Social Engineering
 - Prompt Injection
@@ -51,7 +51,7 @@ This **multi-layered security approach** is effective against sophisticated thre
 Unlike [traditional EDRs](/advantages/vs-edr-mtd-security), which struggle on mobile, this approach:
 
 - Is delivered through a **simple integration**
-- Requires **no additional hardware or credentials**
+- Requires **no credentials or additional hardware**
 - **Focuses protection on critical actions**
 - Works **even on compromised devices**
 

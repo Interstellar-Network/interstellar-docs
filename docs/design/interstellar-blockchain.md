@@ -6,12 +6,6 @@ sidebar_position: 2
 
 # Interstellar Blockchain
 
-Interstellar consists of its own **purpose-built blockchain**, responsible for execution and verification of Proof of Human Intent (PoHI) workflows through highly optimized customizations.
+Interstellar consists of its own **purpose-built blockchain, optimized for verification and execution of PoHI workflows**. The chain generates and coordinates one-time [garbled circuits](/proof-of-human-intent/garbled-circuits) that power the [dynamic visual cryptography](/proof-of-human-intent/dynamic-visual-cryptography) channel, and hosts decentralized signer verification for approved intents.
 
 ![Cutting-Edge Blockchain Technology](/img/Cutting_Edge_Blockchain_Technology_Slide.png)
-
-The chain generates and coordinates one-time [garbled circuits](/proof-of-human-intent/garbled-circuits) that power the [dynamic visual cryptography](/proof-of-human-intent/dynamic-visual-cryptography) channel, and hosts decentralized signer verification for approved intents.
-
-:::note
-For the security model that runs on top of it, start with [Proof of Human Intent](/proof-of-human-intent/overview).
-:::
