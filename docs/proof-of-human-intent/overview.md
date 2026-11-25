@@ -8,7 +8,7 @@ sidebar_position: 1
 
 ## Authentication ≠ Intent
 
-For decades, **digital security has been about verifying credentials**. But once a session is authenticated, your credentials and associated permissions work for whoever, or whatever, holds them. Infected AI agents or malware inside that session have the right tokens, identity, and permissions to execute irreversible actions. **What they lack is human intent.**
+For decades, **digital security has been about verifying identity through credentials**. But once a session is authenticated, it carries your identity and permissions for whoever, or whatever, holds it. AI agents or malware that can access that session have valid tokens, identity, and permissions to execute irreversible actions. **What they lack is human intent.**
 
 **AI agents & malware now act after login** — draining wallets and triggering irreversible transactions, while security still trusts the authenticated session:
 
