@@ -23,7 +23,7 @@ sidebar_position: 2
 
 **57% of all web traffic is now non-human, and the fastest-growing part of it is AI agents acting on behalf of users.**
 
-- Hidden instructions in websites, emails and documents can hijack AI agents into sending payments
+- [Hidden instructions](https://brave.com/blog/indirect-prompt-injection) in websites, emails and documents can hijack AI agents into sending payments
 - Ranked #1 on the OWASP Top 10 for LLM Applications, with direct attacks succeeding 79%+ of the time in 2026 testing
 - Live campaigns have already tricked agents into crypto transfers
 - Cloudflare measured this agent traffic growing more than 15x in 2025 alone
