@@ -12,7 +12,7 @@ sidebar_position: 2
 
 ## Upcoming
 
-- 🟠 MPP
+- 🟠 Machine Payments Protocol
 - 🟠 x402
 
 ## In Research

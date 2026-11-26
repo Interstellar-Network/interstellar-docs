@@ -20,12 +20,13 @@ sidebar_position: 1
 ## Upcoming
 
 - 🟠 Arbitrum
-- 🟠 Arc
+- 🟠 Optimism
 - 🟠 Base
-- 🟠 BNB
-- 🟠 Hyperliquid
 - 🟠 Tempo
-- 🟠 TRON
+- 🟠 Arc
+- 🟠 Hyperliquid
+- 🟠 BNB Chain
+- 🟠 TRON Network
 
 :::info
 Public mainnet timelines and integration guides will be published as each network goes live.
